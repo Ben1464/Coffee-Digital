@@ -3,33 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coffee Farmer's Guide</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Coffee Farmer Solutions</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Coffee Farmer's Guide</h1>
+        <h1>Coffee Farmer Solutions</h1>
     </header>
     <main>
-        <section id="pests">
-            <h2>Pests</h2>
-            <div id="pest-info">
-                <!-- Pest information will be dynamically loaded here -->
-            </div>
-        </section>
-        <section id="diseases">
-            <h2>Diseases</h2>
-            <div id="disease-info">
-                <!-- Disease information will be dynamically loaded here -->
-            </div>
-        </section>
-        <section id="nutrition">
-            <h2>Nutrition</h2>
-            <div id="nutrition-info">
-                <!-- Nutrition information will be dynamically loaded here -->
-            </div>
-        </section>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search for solutions...">
+            <button onclick="searchSolutions()">Search</button>
+        </div>
+        <div id="solutionResults"></div>
     </main>
+    <footer>
+        <p>&copy; 2024 Coffee Farmer Solutions</p>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>

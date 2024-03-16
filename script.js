@@ -1,33 +1,41 @@
-// Sample data for pests, diseases, and nutrition
-const pestsData = [
-    { name: "Coffee Borer Beetle", description: "This beetle damages coffee cherries." },
-    // Add more pest data as needed
+// Sample solutions data including image URLs
+const solutions = [
+    { 
+        problem: "Pest infestation", 
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        image: "images/pest_control.jpg"
+    },
+    { 
+        problem: "Soil acidity", 
+        solution: "Test soil pH and add lime to raise pH levels if soil is too acidic.",
+        image: "images/soil_amendment.jpg"
+    },
+    { 
+        problem: "Weed management", 
+        solution: "Implement mulching techniques to suppress weed growth and maintain soil moisture.",
+        image: "images/mulching.jpg"
+    },
+    // Add more solutions as needed
 ];
 
-const diseasesData = [
-    { name: "Coffee Leaf Rust", description: "A fungal disease that affects coffee plants." },
-    // Add more disease data as needed
-];
+function searchSolutions() {
+    const searchInput = document.getElementById("searchInput").value.toLowerCase();
+    const solutionResults = document.getElementById("solutionResults");
+    solutionResults.innerHTML = "";
 
-const nutritionData = [
-    { name: "Nitrogen", description: "Essential for plant growth and coffee bean development." },
-    // Add more nutrition data as needed
-];
+    const filteredSolutions = solutions.filter(solution => solution.problem.toLowerCase().includes(searchInput));
 
-// Function to display information
-function displayInfo(data, containerId) {
-    const container = document.getElementById(containerId);
-    container.innerHTML = "";
-    data.forEach(item => {
-        const div = document.createElement("div");
-        div.innerHTML = `<strong>${item.name}:</strong> ${item.description}`;
-        container.appendChild(div);
-    });
+    if (filteredSolutions.length === 0) {
+        solutionResults.innerHTML = "<p>No solutions found for the entered problem.</p>";
+    } else {
+        filteredSolutions.forEach(solution => {
+            const solutionDiv = document.createElement("div");
+            solutionDiv.classList.add("solution");
+            solutionDiv.innerHTML = `
+                <h3>${solution.problem}</h3>
+                <img src="${solution.image}" alt="${solution.problem}">
+                <p>${solution.solution}</p>`;
+            solutionResults.appendChild(solutionDiv);
+        });
+    }
 }
-
-// Display information on page load
-window.onload = function() {
-    displayInfo(pestsData, "pest-info");
-    displayInfo(diseasesData, "disease-info");
-    displayInfo(nutritionData, "nutrition-info");
-};
