@@ -2,9 +2,8 @@
 const solutions = [
     { 
         problem: "Thrips", 
-        solution: "Thrips infestations pose a serious threat to coffee production, impacting tree health and berry quality. Vigilance and prompt action are essential for mitigating these pests' impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.To eradicate them use Kincode 10mls/20ltrs of water, always incoporate Integra 3ml/20ltrs of water to increase efficacy of your spray.",
-
         infestationimage: "images/Thrips in.jpg",
+        solution: "Thrips infestations pose a serious threat to coffee production, impacting tree health and berry quality. Vigilance and prompt action are essential for mitigating these pests' impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.To eradicate them use Kincode 10mls/20ltrs of water, always incoporate Integra 3ml/20ltrs of water to increase efficacy of your spray.",
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
