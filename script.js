@@ -3,72 +3,83 @@ const solutions = [
     { 
         problem: "Thrips", 
         infestationimage: "images/Thrips in.jpg",
-        solution: "Thrips infestations pose a serious threat to coffee production, impacting tree health and berry quality. Vigilance and prompt action are essential for mitigating these pests' impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.To eradicate them use Kincode 10mls/20ltrs of water, always incoporate Integra 3ml/20ltrs of water to increase efficacy of your spray.",
+        description: "Thrips infestations pose a serious threat to coffee production, impacting tree health and berry quality. Vigilance and prompt action are essential for mitigating these pests' impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.To eradicate them use Kincode 10mls/20ltrs of water, always incoporate Integra 3ml/20ltrs of water to increase efficacy of your spray.",
+        solution: "UseKingcode 10mls + Integra 3mls/20ltrs of water",
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
     { 
         problem: "Leaf Miners", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/leafminer.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/PRESENTO-KG-2048x2048.webp"
     },
    
     { 
         problem: "Coffee Berry Month", 
+        infestationimage: "images/leafminer.jpg",
         solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
-        infestationimage: "images/Berry month.jpg",
+        
         image: "images/Kingcode-elite-2048x2048.webp"
     },
 
     { 
         problem: "Coffee berry borers", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Coffee berry borer.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/Lexus-247SC.webp"
     },
     
 
     { 
         problem: "Mealy Bugs", 
-        solution: "Test soil pH and add lime to raise pH levels if soil is too acidic.",
         infestationimage: "images/Mealybugs.jpg",
+        solution: "Test soil pH and add lime to raise pH levels if soil is too acidic.",
+        
         image: "images/Lexus-247SC.webp"
     },
     { 
         problem: "White Headed Borers", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Coffee berry borer.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
         problem: "Mites", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Mites.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+       
         image: "images/Bazooka-2048x2048.webp"
     },
     { 
         problem: "Leaf Rust", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Leafrust.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/Green-Cop.webp"
     },
     { 
         problem: "Coffee Berry Disease", 
-        solution: "Implement mulching techniques to suppress weed growth and maintain soil moisture.",
         infestationimage: "images/CBD.jpg",
+        solution: "Implement mulching techniques to suppress weed growth and maintain soil moisture.",
+        
         image: "images/Absolute-star-2048x2048.webp"
     },
     { 
         problem: "Coffee Berry Blight", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/BBC.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/compliant.webp"
     },
     { 
         problem: "Zinc Deficiency", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Zinc.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+       
         image: "images/zinc-gold.webp"
     }, { 
         problem: "Boron Deficiency", 
@@ -78,21 +89,24 @@ const solutions = [
     },
     { 
         problem: "Phosphorus Deficiency", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Phosphorus.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/Lavender-total-combine-2048x2048.webp"
     },
     { 
         problem: "Nitrogen Deficiency", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Nitrogen.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+        
         image: "images/Lavender-total-combine-2048x2048.webp"
        
     },
     { 
         problem: "Potassium Deficiency", 
-        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
         infestationimage: "images/Pottasium.jpg",
+        solution: "Use organic pest control methods such as neem oil or introduce natural predators like ladybugs.",
+       
         image: "images/Goldchance-Multi-Super-K-1.webp"
     },
     { 
@@ -109,8 +123,9 @@ const solutions = [
     },
     { 
         problem: "Stress", 
-        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         infestationimage: "images/Stress.jpg",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        
         image: "images/Optimizer-new-2048x2048.webp"
     },
 
@@ -131,10 +146,11 @@ function searchSolutions() {
             const solutionDiv = document.createElement("div");
             solutionDiv.classList.add("solution");
             solutionDiv.innerHTML = `
-                <h3>${solution.problem}</h3>
-                <img src="${solution.infestationimage}" alt="${solution.problem}">
-                <p>${solution.solution}</p>;
-                <img src="${solution.image}" alt="${solution.problem}">`;
+            <h3>${solution.problem}</h3>
+            <img src="${solution.infestationimage}" alt="${solution.problem}">
+            <p>${solution.description}</p>
+            <p>${solution.solution}</p>;
+            <img src="${solution.image}" alt="${solution.problem}">`;
               
             solutionResults.appendChild(solutionDiv);
         });
