@@ -38,10 +38,6 @@ h1 {
     line-height: 1.6; /* Improve readability */
 }
 
-.main p {
-    margin-bottom: 20px;
-}
-
 main {
     padding: 20px;
 }
@@ -61,7 +57,8 @@ input[type="text"] {
     color: #fff;
 }
 
-button {
+button,
+.btn {
     padding: 10px 20px;
     background: linear-gradient(135deg, #3BD045, #EF1105); /* Gradient background for button */
     color: #fff;
@@ -71,7 +68,8 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
+button:hover,
+.btn:hover {
     background: linear-gradient(135deg, #3BD045, #EF1105); /* Gradient background on hover */
 }
 

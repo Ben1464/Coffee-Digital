@@ -23,6 +23,14 @@ const solutions = [
         solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
+    { 
+        problem: "Antestia Bug", 
+        infestationimage: "images/antestia.jpeg",
+        description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
+        solution: "Use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        image: "images/ranger-480EC.webp"
+    },
+
 
     { 
         problem: "Coffee Berry Borers", 
