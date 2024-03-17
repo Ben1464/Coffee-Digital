@@ -30,8 +30,6 @@ const solutions = [
         solution: "Use Ranger 40mls + Integra 3mls/20ltrs of water.",
         image: "images/ranger-480EC.webp"
     },
-
-
     { 
         problem: "Coffee Berry Borers", 
         infestationimage: "images/Coffee berry borer.jpg",
@@ -39,8 +37,6 @@ const solutions = [
         solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Lexus-247SC.webp"
     },
-    
-
     { 
         problem: "Mealybugs", 
         infestationimage: "images/Mealybugs.jpg",
@@ -139,7 +135,6 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp"
     },
-
     // Add more solutions as needed
 ];
 
@@ -148,7 +143,10 @@ function searchSolutions() {
     const solutionResults = document.getElementById("solutionResults");
     solutionResults.innerHTML = "";
 
-    const filteredSolutions = solutions.filter(solution => solution.problem.toLowerCase().includes(searchInput));
+    const filteredSolutions = solutions.filter(solution => {
+        const problemNames = solution.problem.toLowerCase().split(" ");
+        return problemNames.some(name => name.includes(searchInput));
+    });
 
     if (filteredSolutions.length === 0) {
         solutionResults.innerHTML = "<p>No solutions found for the entered problem.</p>";
@@ -160,7 +158,7 @@ function searchSolutions() {
             <h3>${solution.problem}</h3>
             <img src="${solution.infestationimage}" alt="${solution.problem}">
             <p>${solution.description}</p>
-            <p>${solution.solution}</p>;
+            <p>${solution.solution}</p>
             <img src="${solution.image}" alt="${solution.problem}">`;
               
             solutionResults.appendChild(solutionDiv);
