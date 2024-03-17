@@ -43,13 +43,15 @@ main {
 }
 
 .search-container {
-    text-align: center;
+    display: flex; /* Add flexbox layout */
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
     margin-bottom: 10px; /* Increased margin for better separation */
 }
 
 input[type="text"] {
+    flex: 1; /* Let the input grow to fill available space */
     padding: 15px; /* Increased padding for better input field appearance */
-    width: 60%;
     border: none;
     border-radius: 30px; /* Increased border radius for a sleek look */
     outline: none;
@@ -59,6 +61,7 @@ input[type="text"] {
 
 button,
 .btn {
+    margin-left: 10px; /* Add margin between input and button */
     padding: 15px 30px; /* Increased padding for better button appearance */
     background: linear-gradient(135deg, #3BD045, #EF1105);
     color: #fff;
