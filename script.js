@@ -3,16 +3,16 @@ const solutions = [
     { 
         problem: "Thrips", 
         infestationimage: "images/Thrips in.jpg",
-        description: "Thrips infestations pose a serious threat to coffee production, impacting tree health and berry quality. Vigilance and prompt action are essential for mitigating these pests' impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
+        description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
         solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
     { 
-        problem: "Leaf Miners", 
+        problem: "Leaf Miner", 
         infestationimage: "images/leafminer.jpg",
         description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
-        solution: "Use Presento 10gms + Integra 3mls/20ltrs of water.",
+        solution: "Use Presento 10gms + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/PRESENTO-KG-2048x2048.webp"
     },
    
@@ -20,42 +20,42 @@ const solutions = [
         problem: "Berry Month", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
-        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
         problem: "Antestia Bug", 
         infestationimage: "images/antestia.jpeg",
         description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
-        solution: "Use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        solution: "Use Ranger 40mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/ranger-480EC.webp"
     },
     { 
         problem: "Berry Borer", 
         infestationimage: "images/Coffee berry borer.jpg",
         description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
-        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water.",
+        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/Lexus-247SC.webp"
     },
     { 
         problem: "Mealybugs", 
         infestationimage: "images/Mealybugs.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
-        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water.",
+        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/Lexus-247SC.webp"
     },
     { 
-        problem: "White Headed Borers", 
+        problem: "White Headed Borer", 
         infestationimage: "images/Bore.jpg",
         description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
-        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
         problem: "Mites", 
         infestationimage: "images/Mites.jpg",
         description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
-        solution: "Use Bazooka 10mls + Integra 3mls/20ltrs of water.",
+        solution: "Use Bazooka 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/Bazooka-2048x2048.webp"
     },
     { 
@@ -75,20 +75,20 @@ const solutions = [
     { 
         problem: "Coffee Berry Blight", 
         infestationimage: "images/BBC.jpg",
-        description:"The disease also affects ripening berries causing a 'brown blight' phase as typical dark, sunken anthracnose lesions envelop the red berry. Anthracnose of ripe berries is also commonly caused by the weakly pathogenic Colletotrichum gloeosporioides.",
+        description:"The disease affects ripening berries causing a 'brown blight' phase as typical dark, sunken anthracnose lesions envelop the red berry. Anthracnose of ripe berries is also commonly caused by the weakly pathogenic Colletotrichum gloeosporioides.",
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/compliant.webp"
     },
     { 
         problem: "Zinc Deficiency", 
-        infestationimage: "images/Zinc.jpg",
+        infestationimage: "images/zincdef.jpg",
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp"
     }, { 
         problem: "Boron Deficiency", 
-        infestationimage: "images/Zinc.jpg",
-        description:"Deficiency symptoms are visible on younger leaves and on the growing point of the plants. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
+        infestationimage: "images/borondef.jpg",
+        description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp"
     },
@@ -116,6 +116,7 @@ const solutions = [
     },
     { 
         problem: "Soil Acidity", 
+        infestationimage: "images/soilacid.jpeg",
         description:"Soil acidity is a critical factor affecting plant health and crop productivity. It refers to the pH level of the soil, with acidic soils having pH values below 7. Acidic soils can hinder nutrient availability, impacting plant growth and development.Managing soil acidity is essential for optimizing agricultural yields. Techniques such as liming can help raise soil pH, making essential nutrients more available to plants. Regular soil testing and pH monitoring are vital for maintaining optimal soil conditions and maximizing crop performance.In conclusion, soil acidity significantly influences agricultural outcomes, and proactive management is key to ensuring healthy and productive soil for sustainable farming practices.",
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp"
@@ -124,13 +125,13 @@ const solutions = [
     }, 
     { 
         problem: "Sticker", 
-        infestationimage:"images/integra a.jpg",
+        infestationimage:"images/stickersp.jpg",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/Integra (1).webp"
     },
     { 
         problem: "Stress", 
-        infestationimage: "images/Stress.jpg",
+        infestationimage: "images/stressco.jpeg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp"
