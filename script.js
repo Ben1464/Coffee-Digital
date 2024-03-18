@@ -17,7 +17,7 @@ const solutions = [
     },
    
     { 
-        problem: "Coffee Berry Month", 
+        problem: "Berry Month", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
         solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water.",
@@ -31,7 +31,7 @@ const solutions = [
         image: "images/ranger-480EC.webp"
     },
     { 
-        problem: "Coffee Berry Borers", 
+        problem: "Berry Borer", 
         infestationimage: "images/Coffee berry borer.jpg",
         description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water.",

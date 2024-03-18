@@ -8,7 +8,7 @@ body {
 
 header {
     /* Add a background image to the header */
-    background-image: url('images/landing.webp'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
+    background-image: url('images/landingp.webp'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
     background-size: cover; /* Cover the entire header */
     background-position: center; /* Center the background image */
     color: #fff;
