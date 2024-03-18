@@ -146,3 +146,10 @@ footer {
 #SprayProgram {
     margin-bottom: 40px; /* Adjust margin bottom as needed */
 }
+.word1 {
+    color: #3BD045; /* Color for the first word */
+}
+
+.word2 {
+    color: #EF1105; /* Color for the second word */
+}
