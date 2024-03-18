@@ -135,6 +135,22 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp"
     },
+    { 
+        problem:"Fusarium Wilt", 
+        infestationimage: "images/Fusarium.jpg",
+        description:"Coffee Fusarium wilt, also known as Panama disease or Fusarium oxysporum, is a devastating fungal disease affecting coffee plants. It primarily targets the roots, causing necrosis and wilting of leaves, ultimately leading to plant death. The disease is caused by the fungus Fusarium oxysporum, which infects the vascular system of coffee plants, disrupting water and nutrient flow.",
+        solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+    { 
+        problem: "Bacterial Wilt", 
+        infestationimage:"images/Bacterial .jpg",
+        description:"Bacterial wilt, caused by Ralstonia solanacearum, is a severe threat to coffee farms globally. It leads to wilting, yellowing, and eventual death of plants, causing significant economic losses. The disease enters through wounds, spreading swiftly through the vascular system and blocking water and nutrient flow. Warm temperatures, high humidity, and poorly drained soils exacerbate its impact, especially in tropical coffee-growing areas. Understanding and implementing effective management strategies are vital for minimizing its devastating effects on coffee production.",
+        solution: "To manage bacterial wilt in coffee plants effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+
+
     // Add more solutions as needed
 ];
 
@@ -144,8 +160,9 @@ function searchSolutions() {
     solutionResults.innerHTML = "";
 
     const filteredSolutions = solutions.filter(solution => {
-        const problemNames = solution.problem.toLowerCase().split(" ");
-        return problemNames.some(name => name.includes(searchInput));
+        const problemName = solution.problem.toLowerCase();
+        // Check if the full problem name matches the search input exactly
+        return problemName === searchInput;
     });
 
     if (filteredSolutions.length === 0) {
@@ -165,3 +182,4 @@ function searchSolutions() {
         });
     }
 }
+
