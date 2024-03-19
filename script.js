@@ -9,6 +9,15 @@ const solutions = [
        
     },
     { 
+        problem: "Thrip", 
+        infestationimage: "images/Thrips in.jpg",
+        description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
+
+    { 
         problem: "Green Scales", 
         infestationimage: "images/scales.jpeg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
@@ -24,6 +33,15 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
+    { 
+        problem: "Green Scale", 
+        infestationimage: "images/scales.jpeg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
+
 
     { 
         problem: "Leaf Miners", 
@@ -64,6 +82,14 @@ const solutions = [
         image: "images/ranger-480EC.webp"
     },
     { 
+        problem: "Antestia Bugs", 
+        infestationimage: "images/antestia.jpeg",
+        description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
+        solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        image: "images/ranger-480EC.webp"
+    },
+
+    { 
         problem: "Berry Borer", 
         infestationimage: "images/Coffee berry borer.jpg",
         description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
@@ -84,6 +110,14 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Lexus-247SC.webp"
     },
+    { 
+        problem: "Mealybug", 
+        infestationimage: "images/Mealybugs.jpg",
+        description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Lexus-247SC.webp"
+    },
+
     { 
         problem: "White Headed Borer", 
         infestationimage: "images/Bore.jpg",
