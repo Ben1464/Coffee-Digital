@@ -153,3 +153,81 @@ footer {
 .word2 {
     color: #EF1105; /* Color for the second word */
 }
+#contact {
+    padding: 50px 0; /* Increased padding for better spacing */
+    background-color: #1f1f1f; /* Dark background */
+    color: #fff; /* Text color */
+    text-align: center; /* Center align text */
+}
+
+.container {
+    max-width: 800px; /* Limit container width for better readability */
+    margin: 0 auto; /* Center the container */
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column; /* Arrange items vertically */
+    align-items: center; /* Center align items horizontally */
+    margin-bottom: 10px; /* Increased margin for better separation */
+}
+
+.contact-item {
+    margin-bottom: 10px; /* Increased margin for better separation */
+}
+
+.contact-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px; /* Adjust margin bottom as needed */
+}
+
+.contact-item p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.contact-form {
+    margin-top: 30px; /* Increased margin for better separation */
+}
+
+.contact-form h3 {
+    font-size: 24px;
+    margin-bottom: 20px; /* Increased margin for better separation */
+}
+
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 15px; /* Increased padding for better input field appearance */
+    margin-bottom: 20px; /* Increased margin for better separation */
+    border: 2px solid #3BD045; /* Green border */
+    border-radius: 30px; /* Increased border radius for a sleek look */
+    outline: none;
+    background-color: transparent; /* Transparent background */
+    color: #fff; /* Text color */
+}
+
+.contact-form textarea {
+    height: 150px; /* Set a fixed height for the textarea */
+}
+
+.contact-form input[type="submit"] {
+    padding: 15px 30px; /* Increased padding for better button appearance */
+    background: linear-gradient(135deg, #3BD045, #EF1105);
+    color: #fff;
+    border: none;
+    border-radius: 30px; /* Increased border radius for a sleek look */
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contact-form input[type="submit"]:hover {
+    background: linear-gradient(135deg, #3BD045, #EF1105);
+}
