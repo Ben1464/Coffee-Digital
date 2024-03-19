@@ -71,6 +71,13 @@ const solutions = [
         image: "images/Lexus-247SC.webp"
     },
     { 
+        problem: "Berry Borers", 
+        infestationimage: "images/Coffee berry borer.jpg",
+        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        image: "images/Lexus-247SC.webp"
+    },
+    { 
         problem: "Mealybugs", 
         infestationimage: "images/Mealybugs.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
@@ -286,12 +293,64 @@ const solutions = [
         image: "images/zinc-gold.webp"
     },
     { 
+        problem: "Coffee Prunning", 
+        infestationimage:"images/prunning.jpg",
+        description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
+        solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/zinc-gold.webp"
+    },
+    { 
+        problem: "Right time to do prunning", 
+        infestationimage:"images/prunning.jpg",
+        description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
+        solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/zinc-gold.webp"
+    },
+    { 
+        problem: "Perfect time to do Prunning", 
+        infestationimage:"images/prunning.jpg",
+        description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
+        solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/zinc-gold.webp"
+    },
+
+    { 
         problem: "Liming", 
         infestationimage:"images/liming.jpg",
         description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
         solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
         image: "images/limere.jpeg"
     },
+    { 
+        problem: "Coffee Liming", 
+        infestationimage:"images/liming.jpg",
+        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
+        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
+        image: "images/limere.jpeg"
+    },
+    { 
+        problem: "Perfect time to do liming", 
+        infestationimage:"images/liming.jpg",
+        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
+        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
+        image: "images/limere.jpeg"
+    },
+    { 
+        problem: "When to do liming", 
+        infestationimage:"images/liming.jpg",
+        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
+        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
+        image: "images/limere.jpeg"
+    },
+    { 
+        problem: "Right time to do liming", 
+        infestationimage:"images/liming.jpg",
+        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
+        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
+        image: "images/limere.jpeg"
+    },
+
+
 
 
 
