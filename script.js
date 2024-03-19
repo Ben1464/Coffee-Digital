@@ -16,6 +16,14 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
+    { 
+        problem: "Scales", 
+        infestationimage: "images/scales.jpeg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
 
 
     { 
