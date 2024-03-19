@@ -114,6 +114,13 @@ const solutions = [
         image: "images/Bazooka-2048x2048.webp"
     },
     { 
+        problem: "Termites", 
+        infestationimage: "images/termites.jpg",
+        description:"They are able to efficiently digest plant material through a symbiotic relationship with a fungus, allowing them to adapt to various food sources",
+        solution: "To eradicate them drench the affected areas with Ranger solution with water at a rate of 60mls/20ltrs",
+        image: "images/ranger-480EC.webp"
+    },
+    { 
         problem: "Mites", 
         infestationimage: "images/Mites.jpg",
         description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
