@@ -286,28 +286,28 @@ const solutions = [
         image: "images/Green-Cop.webp"
     },
     { 
-        problem: "Prunning", 
+        problem: "Pruning", 
         infestationimage:"images/prunning.jpg",
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp"
     },
     { 
-        problem: "Coffee Prunning", 
+        problem: "Coffee Pruning", 
         infestationimage:"images/prunning.jpg",
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp"
     },
     { 
-        problem: "Right time to do prunning", 
+        problem: "Right time to do pruning", 
         infestationimage:"images/prunning.jpg",
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp"
     },
     { 
-        problem: "Perfect time to do Prunning", 
+        problem: "Perfect time to do Pruning", 
         infestationimage:"images/prunning.jpg",
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
