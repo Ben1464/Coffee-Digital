@@ -368,7 +368,7 @@ function searchSolutions() {
     const filteredSolutions = solutions.filter(solution => {
         const problemName = solution.problem.toLowerCase();
         // Check if the full problem name matches the search input exactly
-        return problemName === searchInput;
+        return problemName == searchInput;
     });
 
     if (filteredSolutions.length === 0) {
@@ -380,7 +380,9 @@ function searchSolutions() {
             solutionDiv.innerHTML = `
             <h3>${solution.problem}</h3>
             <img src="${solution.infestationimage}" alt="${solution.problem}">
+            <h3>Description:</h3>
             <p>${solution.description}</p>
+            <h3>Solution:</h3>
             <p>${solution.solution}</p>
             <img src="${solution.image}" alt="${solution.problem}">`;
               
