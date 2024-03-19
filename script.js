@@ -349,13 +349,6 @@ const solutions = [
         solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
         image: "images/limere.jpeg"
     },
-
-
-
-
-
-
-
     // Add more solutions as needed
 ];
 
