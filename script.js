@@ -329,6 +329,14 @@ const solutions = [
         image: "images/limere.jpeg"
     },
     { 
+        problem: "Lime", 
+        infestationimage:"images/liming.jpg",
+        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
+        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
+        image: "images/limere.jpeg"
+    },
+
+    { 
         problem: "Perfect time to do liming", 
         infestationimage:"images/liming.jpg",
         description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
