@@ -98,8 +98,21 @@ const solutions = [
         solution: "To eradcate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
+    { 
+        problem: "Mite", 
+        infestationimage: "images/Mites.jpg",
+        description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
+        solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Bazooka-2048x2048.webp"
+    },
 
-
+    { 
+        problem: "Spider Mites", 
+        infestationimage: "images/Mites.jpg",
+        description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
+        solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Bazooka-2048x2048.webp"
+    },
     { 
         problem: "Mites", 
         infestationimage: "images/Mites.jpg",
