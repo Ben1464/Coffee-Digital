@@ -108,31 +108,6 @@ const solutions = [
         image: "images/Bazooka-2048x2048.webp"
     },
     { 
-        problem: "Mite", 
-        infestationimage: "images/Mites.jpg",
-        description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
-        solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
-        image
-    },
-    
-    { 
-        problem: "Spider Mites", 
-        infestationimage: "images/Mites.jpg",
-        description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
-        solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
-        image
-    },
-    { 
-        problem: "Spider Mite", 
-        infestationimage: "images/Mites.jpg",
-        description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
-        solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
-        image
-    },
-
-
-    
-    { 
         problem: "Leaf Rust", 
         infestationimage: "images/Leafrust.jpg",
         description:"Coffee rust or coffee leaf rust is a significant problem in coffee-producing regions. Caused by the fungus Hemileia vastatrix, outbreaks can have a devastating impact on crop yields, rendering coffee cultivation uneconomic wherever it reaches epidemic proportions.",
