@@ -4,15 +4,25 @@ const solutions = [
         problem: "Thrips", 
         infestationimage: "images/Thrips in.jpg",
         description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
-        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        solution: "To eradicate themuse Kingcode 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
     { 
+        problem: "Green Scales", 
+        infestationimage: "images/scales.jpeg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
+
+
+    { 
         problem: "Leaf Miner", 
         infestationimage: "images/leafminer.jpg",
         description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
-        solution: "Use Presento 10gms + Integra 3mls/20ltrs of water to eradicate them.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/PRESENTO-KG-2048x2048.webp"
     },
    
@@ -20,7 +30,7 @@ const solutions = [
         problem: "Berry Month", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
-        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
@@ -35,35 +45,35 @@ const solutions = [
         problem: "Antestia Bug", 
         infestationimage: "images/antestia.jpeg",
         description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
-        solution: "Use Ranger 40mls + Integra 3mls/20ltrs of water to eradicate them.",
+        solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/ranger-480EC.webp"
     },
     { 
         problem: "Berry Borer", 
         infestationimage: "images/Coffee berry borer.jpg",
         description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
-        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/Lexus-247SC.webp"
     },
     { 
         problem: "Mealybugs", 
         infestationimage: "images/Mealybugs.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
-        solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/Lexus-247SC.webp"
     },
     { 
         problem: "White Headed Borer", 
         infestationimage: "images/Bore.jpg",
         description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
-        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
         problem: "Borers", 
         infestationimage: "images/Bore.jpg",
         description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
-        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        solution: "To eradcate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         image: "images/Kingcode-elite-2048x2048.webp"
     },
 
@@ -72,7 +82,7 @@ const solutions = [
         problem: "Mites", 
         infestationimage: "images/Mites.jpg",
         description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
-        solution: "Use Bazooka 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         image: "images/Bazooka-2048x2048.webp"
     },
     { 
