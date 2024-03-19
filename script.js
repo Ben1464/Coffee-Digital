@@ -4,7 +4,7 @@ const solutions = [
         problem: "Thrips", 
         infestationimage: "images/Thrips in.jpg",
         description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
-        solution: "To eradicate themuse Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
@@ -25,6 +25,13 @@ const solutions = [
        
     },
 
+    { 
+        problem: "Leaf Miners", 
+        infestationimage: "images/leafminer.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water to eradicate them.",
+        image: "images/PRESENTO-KG-2048x2048.webp"
+    },
 
     { 
         problem: "Leaf Miner", 
