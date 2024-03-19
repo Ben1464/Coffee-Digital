@@ -24,6 +24,14 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
+        problem: "Month", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+
+    { 
         problem: "Antestia Bug", 
         infestationimage: "images/antestia.jpeg",
         description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
@@ -52,6 +60,15 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
+        problem: "Borers", 
+        infestationimage: "images/Bore.jpg",
+        description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
+        solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+
+
+    { 
         problem: "Mites", 
         infestationimage: "images/Mites.jpg",
         description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
@@ -66,12 +83,28 @@ const solutions = [
         image: "images/Green-Cop.webp"
     },
     { 
+        problem: "Rust", 
+        infestationimage: "images/Leafrust.jpg",
+        description:"Coffee rust or coffee leaf rust is a significant problem in coffee-producing regions. Caused by the fungus Hemileia vastatrix, outbreaks can have a devastating impact on crop yields, rendering coffee cultivation uneconomic wherever it reaches epidemic proportions.",
+        solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/Green-Cop.webp"
+    },
+
+    { 
         problem: "Coffee Berry Disease", 
         infestationimage: "images/CBD.jpg",
         description:"Coffee berry disease (Colletotrichum kahawae) is a devastating pathogen so far present exclusively in Africa. In its more severe form, the fungus invades the berry during the green stage (4–14 weeks after flowering) producing dark brown spots that end up covering the cherry and affecting bean development and quality.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Absolute-star-2048x2048.webp"
     },
+    { 
+        problem: "CBD", 
+        infestationimage: "images/CBD.jpg",
+        description:"Coffee berry disease (Colletotrichum kahawae) is a devastating pathogen so far present exclusively in Africa. In its more severe form, the fungus invades the berry during the green stage (4–14 weeks after flowering) producing dark brown spots that end up covering the cherry and affecting bean development and quality.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/Absolute-star-2048x2048.webp"
+    },
+
     { 
         problem: "Coffee Berry Blight", 
         infestationimage: "images/BBC.jpg",
@@ -85,7 +118,17 @@ const solutions = [
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp"
-    }, { 
+    },
+    { 
+        problem: "Zinc", 
+        infestationimage: "images/zincdef.jpg",
+        description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
+        solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "images/zinc-gold.webp"
+    },
+
+
+     { 
         problem: "Boron Deficiency", 
         infestationimage: "images/borondef.jpg",
         description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
@@ -93,12 +136,29 @@ const solutions = [
         image: "images/Vitabor-Gold.webp"
     },
     { 
+        problem: "Boron", 
+        infestationimage: "images/borondef.jpg",
+        description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Vitabor-Gold.webp"
+    },
+
+
+    { 
         problem: "Phosphorus Deficiency", 
         infestationimage: "images/Phosphorus.jpg",
         description:"Symptoms vary greatly when plants are deficient in phosphorus. In broadleaf plants, young leaves may be dark green and have purplish veins, especially on the underside of leaves. Older leaves can develop an overall purplish tint and tip dieback. Leaves may be curled, distorted, smaller than normal, or drop prematurely",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp"
     },
+    { 
+        problem: "Phosphorus", 
+        infestationimage: "images/Phosphorus.jpg",
+        description:"Symptoms vary greatly when plants are deficient in phosphorus. In broadleaf plants, young leaves may be dark green and have purplish veins, especially on the underside of leaves. Older leaves can develop an overall purplish tint and tip dieback. Leaves may be curled, distorted, smaller than normal, or drop prematurely",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Lavender-total-combine-2048x2048.webp"
+    },
+
     { 
         problem: "Nitrogen Deficiency", 
         infestationimage: "images/Nitrogen.jpg",
@@ -115,6 +175,14 @@ const solutions = [
         image: "images/Goldchance-Multi-Super-K-1.webp"
     },
     { 
+        problem: "Potassium", 
+        infestationimage: "images/Pottasium.jpg",
+        description:"Potassium deficiency in coffee berries manifests as smaller, irregularly shaped berries with uneven ripening. The berries may have a shriveled appearance and lack sweetness. Additionally, potassium-deficient plants are more susceptible to diseases and environmental stresses. To address this deficiency, potassium-rich fertilizers can be applied, and soil pH should be monitored to ensure optimal nutrient uptake.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
+        image: "images/Goldchance-Multi-Super-K-1.webp"
+    },
+
+    { 
         problem: "Soil Acidity", 
         infestationimage: "images/soilacid.jpeg",
         description:"Soil acidity is a critical factor affecting plant health and crop productivity. It refers to the pH level of the soil, with acidic soils having pH values below 7. Acidic soils can hinder nutrient availability, impacting plant growth and development.Managing soil acidity is essential for optimizing agricultural yields. Techniques such as liming can help raise soil pH, making essential nutrients more available to plants. Regular soil testing and pH monitoring are vital for maintaining optimal soil conditions and maximizing crop performance.In conclusion, soil acidity significantly influences agricultural outcomes, and proactive management is key to ensuring healthy and productive soil for sustainable farming practices.",
@@ -124,6 +192,26 @@ const solutions = [
 
     }, 
     { 
+        problem: "Acidity", 
+        infestationimage: "images/soilacid.jpeg",
+        description:"Soil acidity is a critical factor affecting plant health and crop productivity. It refers to the pH level of the soil, with acidic soils having pH values below 7. Acidic soils can hinder nutrient availability, impacting plant growth and development.Managing soil acidity is essential for optimizing agricultural yields. Techniques such as liming can help raise soil pH, making essential nutrients more available to plants. Regular soil testing and pH monitoring are vital for maintaining optimal soil conditions and maximizing crop performance.In conclusion, soil acidity significantly influences agricultural outcomes, and proactive management is key to ensuring healthy and productive soil for sustainable farming practices.",
+        solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
+        image: "images/Humipower-bag-2048x2048.webp"
+    
+
+    }, 
+    { 
+        problem: "Soil", 
+        infestationimage: "images/soilacid.jpeg",
+        description:"Soil acidity is a critical factor affecting plant health and crop productivity. It refers to the pH level of the soil, with acidic soils having pH values below 7. Acidic soils can hinder nutrient availability, impacting plant growth and development.Managing soil acidity is essential for optimizing agricultural yields. Techniques such as liming can help raise soil pH, making essential nutrients more available to plants. Regular soil testing and pH monitoring are vital for maintaining optimal soil conditions and maximizing crop performance.In conclusion, soil acidity significantly influences agricultural outcomes, and proactive management is key to ensuring healthy and productive soil for sustainable farming practices.",
+        solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
+        image: "images/Humipower-bag-2048x2048.webp"
+    
+
+    }, 
+
+
+    { 
         problem: "Sticker", 
         infestationimage:"images/stickersp.jpg",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
@@ -131,6 +219,14 @@ const solutions = [
     },
     { 
         problem: "Stress", 
+        infestationimage: "images/stressco.jpeg",
+        description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
+        solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Optimizer-new-2048x2048.webp"
+    },
+
+    { 
+        problem: "Stress Management", 
         infestationimage: "images/stressco.jpeg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
@@ -147,9 +243,33 @@ const solutions = [
         problem: "Bacterial Wilt", 
         infestationimage:"images/Bacterial .jpg",
         description:"Bacterial wilt, caused by Ralstonia solanacearum, is a severe threat to coffee farms globally. It leads to wilting, yellowing, and eventual death of plants, causing significant economic losses. The disease enters through wounds, spreading swiftly through the vascular system and blocking water and nutrient flow. Warm temperatures, high humidity, and poorly drained soils exacerbate its impact, especially in tropical coffee-growing areas. Understanding and implementing effective management strategies are vital for minimizing its devastating effects on coffee production.",
-        solution: "To manage bacterial wilt in coffee plants effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
+        solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp"
     },
+    { 
+        problem: "Wilting", 
+        infestationimage:"images/Bacterial .jpg",
+        description:"There are two major types of wilting Bacterial wilt and Fusarium wilt. Bacterial wilt, caused by Ralstonia solanacearum, is a severe threat to coffee farms globally. It leads to wilting, yellowing, and eventual death of plants, causing significant economic losses. The disease enters through wounds, spreading swiftly through the vascular system and blocking water and nutrient flow. Warm temperatures, high humidity, and poorly drained soils exacerbate its impact, especially in tropical coffee-growing areas. Understanding and implementing effective management strategies are vital for minimizing its devastating effects on coffee production. Fusarium wilt, also known as Panama disease or Fusarium oxysporum, is a devastating fungal disease affecting coffee plants. It primarily targets the roots, causing necrosis and wilting of leaves, ultimately leading to plant death. The disease is caused by the fungus Fusarium oxysporum, which infects the vascular system of coffee plants, disrupting water and nutrient flow.",
+        solution: "To manage both bacterial wilt and fusarium wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+    { 
+        problem: "Prunning", 
+        infestationimage:"images/prunning.jpg",
+        description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
+        solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/zinc-gold.webp"
+    },
+    { 
+        problem: "Liming", 
+        infestationimage:"images/liming.jpg",
+        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
+        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
+        image: "images/limere.jpeg"
+    },
+
+
+
 
 
     // Add more solutions as needed
