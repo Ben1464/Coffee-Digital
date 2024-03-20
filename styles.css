@@ -216,7 +216,7 @@ footer {
 .contact-form input[type="text"],
 .contact-form input[type="email"],
 .contact-form textarea {
-    width: calc(100% - 30px); /* Calculate width with some padding */
+    width: calc(100% - 40px); /* Calculate width with some padding */
     padding: 15px; /* Increased padding for better input field appearance */
     margin-bottom: 20px; /* Increased margin for better separation */
     border: 2px solid #3BD045; /* Green border */
@@ -227,7 +227,7 @@ footer {
 }
 
 .contact-form textarea {
-    width: calc(100% - 30px); /* Calculate width with some padding */
+    width: calc(100% - 40px); /* Calculate width with some padding */
     height: 150px; /* Set a fixed height for the textarea */
 }
 
