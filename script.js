@@ -58,7 +58,20 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
-
+    { 
+        problem: "Solution To Leaf Miners In Coffee", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        image: "images/PRESENTO-KG-2048x2048.webp"
+    },
+    { 
+        problem: "Leaf Miners Solution in Coffee", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        image: "images/PRESENTO-KG-2048x2048.webp"
+    },
 
     { 
         problem: "Leaf Miners", 
@@ -99,6 +112,20 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
+        problem: "Solution To Coffee Berry Month", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+    { 
+        problem: "Solution To Coffee Berry Months", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+    { 
         problem: "CoffeeBerry Month", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
@@ -129,7 +156,21 @@ const solutions = [
         image: "images/ranger-480EC.webp"
     },
     { 
+        problem: "Solution To CoffeeAntestia Bug", 
+        infestationimage: "images/antestia.jpeg",
+        description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
+        solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        image: "images/ranger-480EC.webp"
+    },
+    { 
         problem: "Coffee Antestia Bug", 
+        infestationimage: "images/antestia.jpeg",
+        description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
+        solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        image: "images/ranger-480EC.webp"
+    },
+    { 
+        problem: "Solution To Coffee Antestia Bugs", 
         infestationimage: "images/antestia.jpeg",
         description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
@@ -160,6 +201,13 @@ const solutions = [
     },
     { 
         problem: "Solution To Coffee Berry Borers", 
+        infestationimage: "images/Coffee berry borer.jpg",
+        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        image: "images/Lexus-247SC.webp"
+    },
+    { 
+        problem: "Solution To Coffee Berry Borer", 
         infestationimage: "images/Coffee berry borer.jpg",
         description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
@@ -217,6 +265,13 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Lexus-247SC.webp"
     },
+    { 
+        problem: "Solution To Coffee Mealybug", 
+        infestationimage: "images/Mealybugs.jpg",
+        description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Lexus-247SC.webp"
+    },
 
     { 
         problem: "Bugs", 
@@ -228,6 +283,20 @@ const solutions = [
 
     { 
         problem: "White Headed Borer", 
+        infestationimage: "images/Bore.jpg",
+        description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+    { 
+        problem: "Solution To Coffee White Headed Borer", 
+        infestationimage: "images/Bore.jpg",
+        description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+    { 
+        problem: "Solution To Coffee White Headed Borers", 
         infestationimage: "images/Bore.jpg",
         description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
