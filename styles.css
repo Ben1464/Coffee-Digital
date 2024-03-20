@@ -54,6 +54,7 @@ main {
 input[type="text"] {
     flex: 1; /* Let the input grow to fill available space */
     padding: 15px; /* Increased padding for better input field appearance */
+    margin-right: 10px; /* Add margin between input and button */
     border: none;
     border-radius: 30px; /* Increased border radius for a sleek look */
     outline: none;
@@ -63,7 +64,6 @@ input[type="text"] {
 
 button,
 .btn {
-    margin-left: 10px; /* Add margin between input and button */
     padding: 15px 30px; /* Increased padding for better button appearance */
     background: linear-gradient(135deg, #3BD045, #EF1105);
     color: #fff;
@@ -141,11 +141,22 @@ footer {
     .introduction img {
         border-radius: 0;
     }
+
+    input[type="text"] {
+        margin-right: 0; /* Reset margin for smaller screens */
+    }
+
+    button,
+    .btn {
+        margin-top: 10px; /* Adjust margin top for smaller screens */
+    }
 }
+
 /* Add space between Spray Program button and footer */
 #SprayProgram {
     margin-bottom: 40px; /* Adjust margin bottom as needed */
 }
+
 .word1 {
     color: #3BD045; /* Color for the first word */
 }
@@ -153,6 +164,7 @@ footer {
 .word2 {
     color: #EF1105; /* Color for the second word */
 }
+
 #contact {
     padding: 50px 0; /* Increased padding for better spacing */
     background-color: #1f1f1f; /* Dark background */
@@ -204,17 +216,18 @@ footer {
 .contact-form input[type="text"],
 .contact-form input[type="email"],
 .contact-form textarea {
-    width: 100%;
+    width: calc(100% - 30px); /* Calculate width with some padding */
     padding: 15px; /* Increased padding for better input field appearance */
     margin-bottom: 20px; /* Increased margin for better separation */
     border: 2px solid #3BD045; /* Green border */
-    border-radius: 30px; /* Increased border radius for a sleek look */
+    border-radius: 5px; /* Increased border radius for a sleek look */
     outline: none;
     background-color: transparent; /* Transparent background */
     color: #fff; /* Text color */
 }
 
 .contact-form textarea {
+    width: calc(100% - 30px); /* Calculate width with some padding */
     height: 150px; /* Set a fixed height for the textarea */
 }
 
@@ -223,7 +236,8 @@ footer {
     background: linear-gradient(135deg, #3BD045, #EF1105);
     color: #fff;
     border: none;
-    border-radius: 30px; /* Increased border radius for a sleek look */
+   
+    border-radius: 0px; /* Increased border radius for a sleek look */
     cursor: pointer;
     transition: background-color 0.3s;
 }
