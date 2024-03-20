@@ -240,8 +240,12 @@ footer {
     border-radius: 0px; /* Increased border radius for a sleek look */
     cursor: pointer;
     transition: background-color 0.3s;
+    text-align: right;
 }
 
 .contact-form input[type="submit"]:hover {
     background: linear-gradient(135deg, #3BD045, #EF1105);
+}
+.button-container {
+    justify-content: right; /* Aligns the button container to the right */
 }
