@@ -9,6 +9,14 @@ const solutions = [
        
     },
     { 
+        problem: "Thrips Infestation In Coffee", 
+        infestationimage: "images/thrips.jpg",
+        description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
+    { 
         problem: "Solution To Coffee Thrips", 
         infestationimage: "images/thrips.jpg",
         description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
@@ -23,7 +31,9 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Kingcode-elite-2048x2048.webp"
        
+
     },
+
 
     { 
         problem: "Thrip", 
@@ -36,6 +46,22 @@ const solutions = [
 
     { 
         problem: "Green Scales", 
+        infestationimage: "images/scales.jpeg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
+    { 
+        problem: "Green Scales Infestation In Coffee", 
+        infestationimage: "images/scales.jpeg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Kingcode-elite-2048x2048.webp"
+       
+    },
+    { 
+        problem: "Green Scale Infestation In Coffee", 
         infestationimage: "images/scales.jpeg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
@@ -112,7 +138,7 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
-        problem: "Solution To Coffee Berry Month", 
+        problem: "Solution To Coffee Berry Month In Coffee", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
@@ -126,7 +152,21 @@ const solutions = [
         image: "images/Kingcode-elite-2048x2048.webp"
     },
     { 
-        problem: "CoffeeBerry Month", 
+        problem: "Solution To Coffee Berry Months In Coffee", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+    { 
+        problem: "Solution To Coffee Berry Month In Coffee", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        image: "images/Kingcode-elite-2048x2048.webp"
+    },
+    { 
+        problem: "Coffee Berry Month", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
@@ -156,7 +196,14 @@ const solutions = [
         image: "images/ranger-480EC.webp"
     },
     { 
-        problem: "Solution To CoffeeAntestia Bug", 
+        problem: "Solution To Coffee Antestia Bug", 
+        infestationimage: "images/antestia.jpeg",
+        description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
+        solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        image: "images/ranger-480EC.webp"
+    },
+    { 
+        problem: "Solution To Coffee Antestia Bugs", 
         infestationimage: "images/antestia.jpeg",
         description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
