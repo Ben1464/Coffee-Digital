@@ -516,24 +516,31 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/compliant.webp"
     },
+    { 
+        problem: "CBB", 
+        infestationimage: "images/BBC.jpg",
+        description:"The disease affects ripening berries causing a 'brown blight' phase as typical dark, sunken anthracnose lesions envelop the red berry. Anthracnose of ripe berries is also commonly caused by the weakly pathogenic Colletotrichum gloeosporioides.",
+        solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/compliant.webp"
+    },
 
     { 
         problem: "Zinc Deficiency", 
-        infestationimage: "images/zincdef.jpg",
+        infestationimage: "images/Zincdef.jpg",
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp"
     },
     { 
         problem: "Zinc Deficiency In Coffee", 
-        infestationimage: "images/zincdef.jpg",
+        infestationimage: "images/Zincdef.jpg",
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp"
     },
     { 
         problem: "Coffee Zinc Deficiency", 
-        infestationimage: "images/zincdef.jpg",
+        infestationimage: "images/Zincdef.jpg",
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp"
@@ -541,7 +548,7 @@ const solutions = [
 
     { 
         problem: "Zinc", 
-        infestationimage: "images/zincdef.jpg",
+        infestationimage: "images/Zincdef.jpg",
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp"
@@ -739,6 +746,13 @@ const solutions = [
         image: "images/Optimizer-new-2048x2048.webp"
     },
     { 
+        problem: "Stress Management In Coffee", 
+        infestationimage: "images/stressco.jpeg",
+        description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
+        solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/Optimizer-new-2048x2048.webp"
+    },
+    { 
         problem: "Stress Management In Coffee Trees", 
         infestationimage: "images/stressco.jpeg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
@@ -794,9 +808,44 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp"
     },
+    { 
+        problem:"Solution For Fusarium Wilt In Coffee Tree", 
+        infestationimage: "images/Fusarium.jpg",
+        description:"Coffee Fusarium wilt, also known as Panama disease or Fusarium oxysporum, is a devastating fungal disease affecting coffee plants. It primarily targets the roots, causing necrosis and wilting of leaves, ultimately leading to plant death. The disease is caused by the fungus Fusarium oxysporum, which infects the vascular system of coffee plants, disrupting water and nutrient flow.",
+        solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+    { 
+        problem:"Solution For Fusarium Wilt In Coffee Trees", 
+        infestationimage: "images/Fusarium.jpg",
+        description:"Coffee Fusarium wilt, also known as Panama disease or Fusarium oxysporum, is a devastating fungal disease affecting coffee plants. It primarily targets the roots, causing necrosis and wilting of leaves, ultimately leading to plant death. The disease is caused by the fungus Fusarium oxysporum, which infects the vascular system of coffee plants, disrupting water and nutrient flow.",
+        solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+    { 
+        problem:"Solution Fusarium Wilt In Coffee ", 
+        infestationimage: "images/Fusarium.jpg",
+        description:"Coffee Fusarium wilt, also known as Panama disease or Fusarium oxysporum, is a devastating fungal disease affecting coffee plants. It primarily targets the roots, causing necrosis and wilting of leaves, ultimately leading to plant death. The disease is caused by the fungus Fusarium oxysporum, which infects the vascular system of coffee plants, disrupting water and nutrient flow.",
+        solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
 
     { 
         problem: "Bacterial Wilt", 
+        infestationimage:"images/Bacterial .jpg",
+        description:"Bacterial wilt, caused by Ralstonia solanacearum, is a severe threat to coffee farms globally. It leads to wilting, yellowing, and eventual death of plants, causing significant economic losses. The disease enters through wounds, spreading swiftly through the vascular system and blocking water and nutrient flow. Warm temperatures, high humidity, and poorly drained soils exacerbate its impact, especially in tropical coffee-growing areas. Understanding and implementing effective management strategies are vital for minimizing its devastating effects on coffee production.",
+        solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+    { 
+        problem: "Bacterial Wilt In Coffee", 
+        infestationimage:"images/Bacterial .jpg",
+        description:"Bacterial wilt, caused by Ralstonia solanacearum, is a severe threat to coffee farms globally. It leads to wilting, yellowing, and eventual death of plants, causing significant economic losses. The disease enters through wounds, spreading swiftly through the vascular system and blocking water and nutrient flow. Warm temperatures, high humidity, and poorly drained soils exacerbate its impact, especially in tropical coffee-growing areas. Understanding and implementing effective management strategies are vital for minimizing its devastating effects on coffee production.",
+        solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
+        image: "images/Green-Cop.webp"
+    },
+    { 
+        problem: "Solution For Bacterial Wilt In Coffee", 
         infestationimage:"images/Bacterial .jpg",
         description:"Bacterial wilt, caused by Ralstonia solanacearum, is a severe threat to coffee farms globally. It leads to wilting, yellowing, and eventual death of plants, causing significant economic losses. The disease enters through wounds, spreading swiftly through the vascular system and blocking water and nutrient flow. Warm temperatures, high humidity, and poorly drained soils exacerbate its impact, especially in tropical coffee-growing areas. Understanding and implementing effective management strategies are vital for minimizing its devastating effects on coffee production.",
         solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
@@ -852,7 +901,13 @@ const solutions = [
         image: "images/zinc-gold.webp"
     },
     
-    
+    { 
+        problem: "Importance of Pruning Coffee", 
+        infestationimage:"images/prunning.jpg",
+        description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
+        solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/zinc-gold.webp"
+    },
     { 
         problem: "Coffee Pruning", 
         infestationimage:"images/prunning.jpg",
