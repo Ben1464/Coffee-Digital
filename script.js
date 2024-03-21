@@ -5,6 +5,7 @@ const solutions = [
         infestationimage: "images/thrips.jpg",
         description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals:"Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp"
        
     },
@@ -1016,6 +1017,8 @@ function searchSolutions() {
             <p>${solution.description}</p>
             <h3>Solution:</h3>
             <p>${solution.solution}</p>
+            <h3>Spraying Intervals:<h3>
+            <p>${solution.sprayingintervals}</p>
             <img src="${solution.image}" alt="${solution.problem}">`;
               
             solutionResults.appendChild(solutionDiv);
