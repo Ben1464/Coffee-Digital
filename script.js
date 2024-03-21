@@ -745,8 +745,9 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp"
     },
+   
     { 
-        problem: "Stress Management In Coffee", 
+        problem: "Stress Management In Coffee ", 
         infestationimage: "images/stressco.jpeg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
