@@ -1065,9 +1065,9 @@ function searchSolutions() {
             <p>${solution.description}</p>
             <h3>Solution:</h3>
             <p>${solution.solution}</p>
+            <img src="${solution.image}" alt="${solution.problem}">
             <h3>Spraying Intervals:</h3>
-            <p>${solution.sprayingintervals}</p>
-            <img src="${solution.image}" alt="${solution.problem}">`;
+            <p>${solution.sprayingintervals}</p>`;
               
             solutionResults.appendChild(solutionDiv);
         });
