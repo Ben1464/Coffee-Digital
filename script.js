@@ -7,7 +7,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -1278,7 +1279,9 @@ function searchSolutions() {
             <h3>Spraying Intervals:</h3>
             <p>${solution.sprayingintervals}</p>
             <h3>Available Pack Size:</h3>
-            <p>${solution.availablepacksize}</p>`;
+            <p>${solution.availablepacksize}</p>
+            <h3>Price Range:
+            <p>${solution.pricerange}`;
               
             solutionResults.appendChild(solutionDiv);
         });
