@@ -1335,7 +1335,7 @@ function searchSolutions() {
             <p>${solution.sprayingintervals}</p>
             <h3>Available Pack Size:</h3>
             <p>${solution.availablepacksize}</p>
-            <h3>Price Range </h3>
+            <h3>Price Range:</h3>
             <p>${solution.pricerange}`;
               
             solutionResults.appendChild(solutionDiv);
