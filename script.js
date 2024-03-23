@@ -520,19 +520,20 @@ const solutions = [
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
         pricerange:""
     },
     { 
-        problem: "Solution To Coffee Spider Mites", 
+        problem: "Spider Mites", 
         infestationimage: "images/Mites.jpg",
         description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
         pricerange:""
     },
+
     { 
         problem: "Solution To Coffee Spider Mite", 
         infestationimage: "images/Mites.jpg",
@@ -540,7 +541,7 @@ const solutions = [
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
         pricerange:""
     },
     { 
