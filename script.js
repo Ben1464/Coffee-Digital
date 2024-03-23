@@ -18,7 +18,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -28,7 +29,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -38,7 +40,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
 
     },
@@ -51,7 +54,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
 
@@ -62,7 +66,9 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
+        
        
     },
     { 
@@ -72,7 +78,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -82,7 +89,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -92,7 +100,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -102,7 +111,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,1ltr."
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
        
     },
     { 
@@ -112,7 +122,8 @@ const solutions = [
         solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/PRESENTO-KG-2048x2048.webp",
-        availablepacksize:"20gms,100gms,250gms and 1KG."
+        availablepacksize:"20gms,100gms,250gms and 1KG.",
+        pricerange:"20gms(Ksh 150-200),100gms(Ksh 400-450),250gms(Ksh 1200-1300),1Kg(Ksh 3400-3600)"
     },
     { 
         problem: "Leaf Miners Solution in Coffee", 
@@ -121,7 +132,8 @@ const solutions = [
         solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/PRESENTO-KG-2048x2048.webp",
-        availablepacksize:"20gms,100gms,250gms and 1KG."
+        availablepacksize:"20gms,100gms,250gms and 1KG.",
+        pricerange:"20gms(Ksh 150-200),100gms(Ksh 400-450),250gms(Ksh 1200-1300),1Kg(Ksh 3400-3600)"
     },
 
     { 
@@ -131,7 +143,8 @@ const solutions = [
         solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/PRESENTO-KG-2048x2048.webp",
-        availablepacksize:"20gms,100gms,250gms and 1KG."
+        availablepacksize:"20gms,100gms,250gms and 1KG.",
+        pricerange:"20gms(Ksh 150-200),100gms(Ksh 400-450),250gms(Ksh 1200-1300),1Kg(Ksh 3400-3600)"
     },
 
     { 
@@ -140,7 +153,8 @@ const solutions = [
         description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
         solution: "To eradicate them use Presento 10gms + Integra 3mls/20ltrs of water.",
         image: "images/PRESENTO-KG-2048x2048.webp",
-        availablepacksize:"20gms,100gms,250gms and 1KG."
+        availablepacksize:"20gms,100gms,250gms and 1KG.",
+        pricerange:"20gms(Ksh 150-200),100gms(Ksh 400-450),250gms(Ksh 1200-1300),1Kg(Ksh 3400-3600)"
     },
     { 
         problem: "Coffee Leaf Miner", 
@@ -149,7 +163,8 @@ const solutions = [
         solution: "To eradicate them use Presento 10gms + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/PRESENTO-KG-2048x2048.webp",
-        availablepacksize:"20gms,100gms,250gms and 1KG."
+        availablepacksize:"20gms,100gms,250gms and 1KG.",
+        pricerange:"20gms(Ksh 150-200),100gms(Ksh 400-450),250gms(Ksh 1200-1300),1Kg(Ksh 3400-3600)"
     },
 
     { 
@@ -159,7 +174,8 @@ const solutions = [
         solution: "To eradicate them use Presento 10gms + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/PRESENTO-KG-2048x2048.webp",
-        availablepacksize:"20gms,100gms,250gms and 1KG."
+        availablepacksize:"20gms,100gms,250gms and 1KG.",
+        pricerange:"20gms(Ksh 150-200),100gms(Ksh 400-450),250gms(Ksh 1200-1300),1Kg(Ksh 3400-3600)"
     },
    
     { 
@@ -169,7 +185,9 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
+
     },
     { 
         problem: "Solution To Coffee Berry Month In Coffee", 
@@ -178,7 +196,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Solution To Coffee Berry Months", 
@@ -187,7 +206,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Solution To Coffee Berry Months In Coffee", 
@@ -196,7 +216,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Solution To Coffee Berry Month In Coffee", 
@@ -205,7 +226,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Coffee Berry Month", 
@@ -214,7 +236,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Coffee Berry Months", 
@@ -223,7 +246,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
 
     { 
@@ -233,7 +257,8 @@ const solutions = [
         solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
 
     { 
@@ -243,7 +268,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
     },
     { 
         problem: "Solution To Coffee Antestia Bug", 
@@ -252,7 +278,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
 
     },
     { 
@@ -262,7 +289,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
     },
     { 
         problem: "Coffee Antestia Bug", 
@@ -271,7 +299,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
     },
     { 
         problem: "Solution To Coffee Antestia Bugs", 
@@ -280,7 +309,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
     },
     { 
         problem: "Coffee Antestia Bugs", 
@@ -289,7 +319,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
     },
 
     { 
@@ -299,7 +330,8 @@ const solutions = [
         solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 300-350),250mls(Ksh 800-900),1ltr(Ksh 1800-2000)"
     },
 
     { 
@@ -309,7 +341,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
     { 
         problem: "Solution To Coffee Berry Borers", 
@@ -318,7 +351,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
 
 
     },
@@ -329,7 +363,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
     { 
         problem: "Coffee Berry Borers", 
@@ -338,7 +373,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
 
     { 
@@ -348,7 +384,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
 
     { 
@@ -358,7 +395,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
     { 
         problem: "Mealybug", 
@@ -367,7 +405,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
 
     { 
@@ -377,7 +416,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
     { 
         problem: "Coffee Mealybugs", 
@@ -385,7 +425,8 @@ const solutions = [
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
     { 
         problem: "Solution To Coffee Mealybugs", 
@@ -394,7 +435,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
     { 
         problem: "Solution To Coffee Mealybug", 
@@ -403,7 +445,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
 
     { 
@@ -413,7 +456,8 @@ const solutions = [
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
-        availablepacksize:"40mls,100mls and 1ltr."
+        availablepacksize:"40mls,100mls and 1ltr.",
+        pricerange:"40mls(Ksh 300-350),100mls(Ksh 600-700),1ltr(Ksh 6500-6800)"
     },
 
     { 
@@ -423,7 +467,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
 
     },
     { 
@@ -433,7 +478,9 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
+
     },
     { 
         problem: "Solution To Coffee White Headed Borers", 
@@ -442,7 +489,8 @@ const solutions = [
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Borers", 
@@ -451,7 +499,8 @@ const solutions = [
         solution: "To eradcate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Kingcode-elite-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 200-250),100mls(Ksh 300-350),250mls(Ksh 650-750),1ltr(Ksh 2900-3000)"
     },
     { 
         problem: "Mite", 
@@ -460,7 +509,8 @@ const solutions = [
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls,500 and 1ltr."
+        availablepacksize:"50mls,100mls,250mls,500 and 1ltr.",
+        pricerange:""
     },
 
     { 
@@ -471,6 +521,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
         availablepacksize:"50mls,100mls,250mls and 1ltr."
+        pricerange:""
     },
     { 
         problem: "Solution To Coffee Spider Mites", 
@@ -480,6 +531,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
         availablepacksize:"50mls,100mls,250mls and 1ltr."
+        pricerange:""
     },
     { 
         problem: "Solution To Coffee Spider Mite", 
@@ -489,6 +541,7 @@ const solutions = [
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
         availablepacksize:"50mls,100mls,250mls and 1ltr."
+        pricerange:""
     },
     { 
         problem: "Coffee Spider Mites", 
@@ -497,7 +550,8 @@ const solutions = [
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:""
     },
 
     { 
@@ -1280,7 +1334,7 @@ function searchSolutions() {
             <p>${solution.sprayingintervals}</p>
             <h3>Available Pack Size:</h3>
             <p>${solution.availablepacksize}</p>
-            <h3>Price Range:
+            <h3>Price Range </h3>
             <p>${solution.pricerange}`;
               
             solutionResults.appendChild(solutionDiv);
