@@ -249,3 +249,33 @@ footer {
 .button-container {
     justify-content: right; /* Aligns the button container to the right */
 }
+
+/* Style for solution table */
+.solution table {
+    width: 100%; /* Set table width to 100% */
+    border-collapse: collapse; /* Collapse borders */
+    margin-top: 10px; /* Add margin on top for separation */
+}
+
+/* Style for table header cells */
+.solution th {
+    background-color: #3BD045; /* Set background color */
+    color: #fff; /* Set text color */
+    font-weight: bold; /* Set font weight to bold */
+    padding: 4px; /* Add padding */
+}
+
+/* Style for table data cells */
+.solution td {
+    border: 1px solid #ddd; /* Add border */
+    padding: 3px; /* Add padding */
+}
+
+/* Style for table rows */
+/*.solution tr:nth-child(even) {
+  /*  background-color: ; /* Alternate row background color */
+
+/* Hover effect for table rows */
+/*.solution tr:hover {
+    background-color: #ddd; /* Change background color on hover */
+
