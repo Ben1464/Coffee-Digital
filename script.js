@@ -1560,10 +1560,18 @@ function searchSolutions() {
             <img src="${solution.image}" alt="${solution.problem}">
             <h3>Spraying Intervals:</h3>
             <p>${solution.sprayingintervals}</p>
-            <h3>Available Pack Size:</h3>
-            <p>${solution.availablepacksize}</p>
-            <h3>Price Range:</h3>
-            <p>${solution.pricerange}`;
+            <h3>Available Pack Size and Price Range:</h3>
+            <table>
+                <tr>
+                    <th>Pack Size</th>
+                    <th>Price Range</th>
+                </tr>
+                <tr>
+                    <td>${solution.availablepacksize}</td>
+                    <td>${solution.pricerange}</td>
+                </tr>
+            </table>`;
+            
               
             solutionResults.appendChild(solutionDiv);
         });
