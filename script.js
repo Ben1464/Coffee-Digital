@@ -717,7 +717,8 @@ const solutions = [
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Bazooka-2048x2048.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 250-300),100mls(Ksh 450-500),250mls(Ksh 700-800),1ltr(Ksh 2500-2600)."
     },
 
     { 
@@ -726,7 +727,8 @@ const solutions = [
         description:"They are able to efficiently digest plant material through a symbiotic relationship with a fungus, allowing them to adapt to various food sources",
         solution: "To eradicate them drench the affected areas with Ranger solution with water at a rate of 60mls/20ltrs",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 250-300),100mls(Ksh 450-500),250mls(Ksh 700-800),1ltr(Ksh 2500-2600)."
     },
     { 
         problem: "Termites In Coffee", 
@@ -734,8 +736,8 @@ const solutions = [
         description:"They are able to efficiently digest plant material through a symbiotic relationship with a fungus, allowing them to adapt to various food sources",
         solution: "To eradicate them drench the affected areas with Ranger solution with water at a rate of 60mls/20ltrs",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
-        
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 250-300),100mls(Ksh 450-500),250mls(Ksh 700-800),1ltr(Ksh 2500-2600)."
     },
     { 
         problem:"Solution To Termites in Coffee", 
@@ -743,7 +745,8 @@ const solutions = [
         description:"They are able to efficiently digest plant material through a symbiotic relationship with a fungus, allowing them to adapt to various food sources",
         solution: "To eradicate them drench the affected areas with Ranger solution with water at a rate of 60mls/20ltrs",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 250-300),100mls(Ksh 450-500),250mls(Ksh 700-800),1ltr(Ksh 2500-2600)."
     },
     { 
         problem: "Termite In Coffee", 
@@ -751,7 +754,8 @@ const solutions = [
         description:"They are able to efficiently digest plant material through a symbiotic relationship with a fungus, allowing them to adapt to various food sources",
         solution: "To eradicate them drench the affected areas with Ranger solution with water at a rate of 60mls/20ltrs",
         image: "images/ranger-480EC.webp",
-        availablepacksize:"50mls,100mls,250mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"50mls(Ksh 250-300),100mls(Ksh 450-500),250mls(Ksh 700-800),1ltr(Ksh 2500-2600)."
     },
     { 
         problem: "Mites", 
@@ -760,7 +764,8 @@ const solutions = [
         solution: "To eradicate them use Bazooka 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Bazooka-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        availablepacksize:"50mls,100mls,250mls,500mls and 1ltr."
+        availablepacksize:"50mls,100mls,250mls,500mls and 1ltr.",
+        pricerange:"50mls(Ksh 250-300),100mls(Ksh 450-500),250mls(Ksh 700-800),1ltr(Ksh 2500-2600)."
     },
     { 
         problem: "Leaf Rust", 
@@ -769,7 +774,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Green-Cop.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Solution To Coffee Leaf Rust", 
@@ -778,7 +784,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Green-Cop.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Coffee Leaf Rust", 
@@ -787,7 +794,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Green-Cop.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
 
     { 
@@ -797,7 +805,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Green-Cop.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
 
     },
 
@@ -808,7 +817,8 @@ const solutions = [
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"50mls(Ksh 350-400),100mls(Ksh 650-700),250mls(Ksh 1650-1700),1ltr(Ksh 6400-6600)."
     },
     { 
         problem: "Solution To Coffee Berry Disease", 
@@ -817,7 +827,8 @@ const solutions = [
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"50mls(Ksh 350-400),100mls(Ksh 650-700),250mls(Ksh 1650-1700),1ltr(Ksh 6400-6600)."
     },
     { 
         problem: "CBD", 
@@ -826,7 +837,8 @@ const solutions = [
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"50mls(Ksh 350-400),100mls(Ksh 650-700),250mls(Ksh 1650-1700),1ltr(Ksh 6400-6600)."
     },
     { 
         problem: "Berry Disease", 
@@ -835,7 +847,8 @@ const solutions = [
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
-        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"50mls(Ksh 350-400),100mls(Ksh 650-700),250mls(Ksh 1650-1700),1ltr(Ksh 6400-6600)."
     },
 
     { 
@@ -845,7 +858,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/compliant.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
-        availablepacksize:"100mls,250mls,1ltr"
+        availablepacksize:"100mls,250mls,1ltr",
+        pricerange:"100mls(Ksh 800-850),250mls(Ksh 1600-1700),1ltr(Ksh 2800-3000)."
     },
     { 
         problem: "Berry Blight", 
@@ -854,7 +868,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/compliant.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the harvesting seasons)",
-        availablepacksize:"100mls,250mls,1ltr"
+        availablepacksize:"100mls,250mls,1ltr",
+        pricerange:"100mls(Ksh 800-850),250mls(Ksh 1600-1700),1ltr(Ksh 2800-3000)."
     },
     { 
         problem: "Blight", 
@@ -863,7 +878,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/compliant.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the harvesting seasons)",
-        availablepacksize:"100mls,250mls,1ltr"
+        availablepacksize:"100mls,250mls,1ltr",
+        pricerange:"100mls(Ksh 800-850),250mls(Ksh 1600-1700),1ltr(Ksh 2800-3000)."
     },
     { 
         problem: "CBB", 
@@ -872,7 +888,8 @@ const solutions = [
         solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/compliant.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the harvesting seasons)",
-        availablepacksize:"100mls,250mls,1ltr"
+        availablepacksize:"100mls,250mls,1ltr",
+        pricerange:"100mls(Ksh 800-850),250mls(Ksh 1600-1700),1ltr(Ksh 2800-3000)."
     },
 
     { 
@@ -882,7 +899,8 @@ const solutions = [
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
         
     },
     { 
@@ -892,7 +910,8 @@ const solutions = [
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
 
     },
     { 
@@ -902,7 +921,8 @@ const solutions = [
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
 
     { 
@@ -912,7 +932,8 @@ const solutions = [
         solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
         image: "images/zinc-gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
 
 
@@ -923,7 +944,8 @@ const solutions = [
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Boron", 
@@ -932,7 +954,8 @@ const solutions = [
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Boron Deficiency In Coffee", 
@@ -941,7 +964,8 @@ const solutions = [
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Boron", 
@@ -950,7 +974,8 @@ const solutions = [
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Coffee Boron Deficiency", 
@@ -959,7 +984,8 @@ const solutions = [
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
-        availablepacksize:"500mls,1ltr and 20ltrs."
+        availablepacksize:"500mls,1ltr and 20ltrs.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
 
     { 
@@ -969,7 +995,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
     },
     { 
         problem: "Coffee Phosphorus Deficiency", 
@@ -978,7 +1005,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
     },
     { 
         problem: "Phosphorus Deficiency In Coffee", 
@@ -987,7 +1015,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
     },
     { 
         problem: "Phosphorus", 
@@ -996,7 +1025,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
     },
 
     { 
@@ -1006,7 +1036,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
 
        
     },
@@ -1017,7 +1048,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
        
     },
     { 
@@ -1027,7 +1059,8 @@ const solutions = [
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Lavender-total-combine-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs."
+        availablepacksize:"100mls,250mls,500mls,1ltr and 20ltrs.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),500mls(Ksh 850-950),1ltr(Ksh 1600-1700)."
 
        
     },
@@ -1039,7 +1072,8 @@ const solutions = [
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
         image: "images/Goldchance-Multi-Super-K-1.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"500gms,1kg,20kgs"
+        availablepacksize:"500gms,1kg,20kgs",
+        pricerange:"500gms(Ksh 300-350),1kg(Ksh 550-650)"
     },
 
     { 
@@ -1049,7 +1083,8 @@ const solutions = [
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
         image: "images/Goldchance-Multi-Super-K-1.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"500gms,1kg,20kgs"
+        availablepacksize:"500gms,1kg,20kgs",
+        pricerange:"500gms(Ksh 300-350),1kg(Ksh 550-650)"
     
     },
     { 
@@ -1059,7 +1094,8 @@ const solutions = [
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
         image: "images/Goldchance-Multi-Super-K-1.webp",
         sprayingintervals: "Repeat spray after 21 days.",
-        availablepacksize:"500gms,1kg,20kgs"
+        availablepacksize:"500gms,1kg,20kgs",
+        pricerange:"500gms(Ksh 300-350),1kg(Ksh 550-650)"
     },
 
     { 
@@ -1069,8 +1105,8 @@ const solutions = [
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
-        availablepacksize:"1kg,25kgs"
-    
+        availablepacksize:"1kg,25kgs",
+        pricerange:"1kg(Ksh 600-700),25kgs(Ksh 12,500-13,000"
 
     }, 
     { 
@@ -1080,7 +1116,8 @@ const solutions = [
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
-        availablepacksize:"1kg,25kgs"
+        availablepacksize:"1kg,25kgs",
+        pricerange:"1kg(Ksh 600-700),25kgs(Ksh 12,500-13,000"
     
 
     }, 
@@ -1091,7 +1128,8 @@ const solutions = [
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
-        availablepacksize:"1kg,25kgs"
+        availablepacksize:"1kg,25kgs",
+        pricerange:"1kg(Ksh 600-700),25kgs(Ksh 12,500-13,000"
     
 
     }, 
@@ -1102,7 +1140,8 @@ const solutions = [
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
-        availablepacksize:"1kg,25kgs"
+        availablepacksize:"1kg,25kgs",
+        pricerange:"1kg(Ksh 600-700),25kgs(Ksh 12,500-13,000"
     
 
     }, 
@@ -1113,7 +1152,8 @@ const solutions = [
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
-        availablepacksize:"1kg,25kgs"
+        availablepacksize:"1kg,25kgs",
+        pricerange:"1kg(Ksh 600-700),25kgs(Ksh 12,500-13,000"
     
 
     }, 
@@ -1124,7 +1164,8 @@ const solutions = [
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
-        availablepacksize:"1kg,25kgs"
+        availablepacksize:"1kg,25kgs",
+        pricerange:"1kg(Ksh 600-700),25kgs(Ksh 12,500-13,000"
     
 
     }, 
@@ -1136,7 +1177,8 @@ const solutions = [
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/Integra (1).webp",
         sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs.",
+        pricerange:"25mls(Ksh 180-200),50mls(Ksh 300-350),100mls(Ksh 550-700),250mls(Ksh 1200-1300),1ltr(Ksh 2900-3000),20ltrs(Ksh 6000-7000)"
     },
     { 
         problem: "Stress", 
@@ -1145,7 +1187,9 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),1ltr(Ksh 1700-1800)"
+
     },
 
     { 
@@ -1155,7 +1199,9 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),1ltr(Ksh 1700-1800)"
+
     },
    
     { 
@@ -1165,7 +1211,8 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),1ltr(Ksh 1700-1800)"
     },
     { 
         problem: "Stress Management In Coffee Trees", 
@@ -1174,7 +1221,8 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),1ltr(Ksh 1700-1800)"
     },
     { 
         problem: "Stress In Coffee Trees", 
@@ -1183,7 +1231,8 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),1ltr(Ksh 1700-1800)"
     },
     { 
         problem: "Stress Management In Coffee Tree", 
@@ -1192,7 +1241,8 @@ const solutions = [
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress.",
-        availablepacksize:"25mls,50mls,100mls,250mls,1ltr,20ltrs."
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"100mls(Ksh 280-300),250mls(Ksh 550-600),1ltr(Ksh 1700-1800)"
     },
     { 
         problem:"Fusarium Wilt", 
@@ -1201,7 +1251,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Coffee Fusarium Wilt", 
@@ -1210,7 +1261,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Fusarium Wilt In Coffee trees", 
@@ -1218,7 +1270,8 @@ const solutions = [
         description:"Coffee Fusarium wilt, also known as Panama disease or Fusarium oxysporum, is a devastating fungal disease affecting coffee plants. It primarily targets the roots, causing necrosis and wilting of leaves, ultimately leading to plant death. The disease is caused by the fungus Fusarium oxysporum, which infects the vascular system of coffee plants, disrupting water and nutrient flow.",
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
-        sprayingintervals:"Drench atleast twice in every year."
+        sprayingintervals:"Drench atleast twice in every year.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Fusarium Wilt In Coffee Tree", 
@@ -1227,7 +1280,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Fusarium", 
@@ -1236,7 +1290,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Solution For Fusarium Wilt In Coffee Tree", 
@@ -1245,7 +1300,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Solution For Fusarium Wilt In Coffee Trees", 
@@ -1254,7 +1310,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem:"Solution Fusarium Wilt In Coffee ", 
@@ -1263,7 +1320,8 @@ const solutions = [
         solution: "To effectively manage Coffee Fusarium wilt, employ a holistic approach encompassing plant resistance, soil management, sanitation, and strategic fungicide application. Utilize resistant coffee varieties when establishing or replanting, prioritizing those bred to withstand Fusarium infection. Implement soil practices promoting drainage, aeration, and root health, including crop rotation with non-host plants to disrupt the disease cycle. Enforce rigorous sanitation by promptly removing and destroying infected plants and debris, while regularly disinfecting equipment to prevent spread. To surpress the fungus drench GreenCop 240gms/20ltrs of water and apply atleast 2ltrs of the solution when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
 
     { 
@@ -1273,7 +1331,8 @@ const solutions = [
         solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Bacterial Wilt In Coffee", 
@@ -1282,7 +1341,8 @@ const solutions = [
         solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Solution For Bacterial Wilt In Coffee", 
@@ -1291,7 +1351,8 @@ const solutions = [
         solution: "To manage bacterial wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Wilting", 
@@ -1300,7 +1361,8 @@ const solutions = [
         solution: "To manage both bacterial wilt and fusarium wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Coffee Tree Wilting", 
@@ -1309,7 +1371,8 @@ const solutions = [
         solution: "To manage both bacterial wilt and fusarium wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Wilting In Coffee trees", 
@@ -1318,7 +1381,8 @@ const solutions = [
         solution: "To manage both bacterial wilt and fusarium wilt effectively, several key strategies are essential. Firstly, utilize resistant coffee varieties whenever possible, as they offer proactive protection against the disease. Implement proper soil drainage and aeration practices to reduce favorable conditions for bacterial wilt development. Practice strict sanitation by promptly removing and destroying infected plants and contaminated soil. Employ crop rotation with non-host plants to break the disease cycle and minimize pathogen populations. Regular monitoring for early detection of symptoms allows for immediate action, preventing further spread.To surpress the bacterias drench Greencop 240gms/20ltrs of water when the soil is moist at least four times in an year.",
         image: "images/Green-Cop.webp",
         sprayingintervals:"Drench atleast twice in every year.",
-        availablepacksize:"500gms,1kg,2kgs."
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"500gms(Ksh 850-900),1kg(Ksh 1750-1900),2kgs(Ksh 3400-3600)."
     },
     { 
         problem: "Pruning", 
@@ -1326,7 +1390,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Pruning In Coffee Trees", 
@@ -1334,7 +1399,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Pruning Coffee Trees", 
@@ -1342,7 +1408,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Pruning Coffee Tree", 
@@ -1350,7 +1417,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     
     { 
@@ -1359,7 +1427,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Coffee Pruning", 
@@ -1367,7 +1436,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Right time to do pruning", 
@@ -1375,7 +1445,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
     { 
         problem: "Perfect time to do Pruning", 
@@ -1383,7 +1454,8 @@ const solutions = [
         description:"Coffee pruning is a vital agricultural practice employed in coffee cultivation to optimize yield, quality, and plant health. It involves the selective removal of branches, shoots, and foliage from coffee plants, which encourages new growth and enhances overall productivity.",
         solution: "After the meticulous process of pruning coffee plants, spraying zinc emerges as a crucial step in nurturing their health,healing the wounds and ensuring optimal yield. Zinc, an essential micronutrient, plays a pivotal role in various physiological processes within coffee plants, making its application post-pruning a practice of paramount importance.Use Zinc Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/zinc-gold.webp",
-        sprayingintervals:"January-Feburary and June -July after pruning and handling."
+        sprayingintervals:"January-Feburary and June -July after pruning and handling.",
+        pricerange:"500mls(Ksh 650-750),1ltr(Ksh 1300-1400)."
     },
 
     { 
