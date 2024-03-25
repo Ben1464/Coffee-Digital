@@ -271,11 +271,7 @@ footer {
     padding: 3px; /* Add padding */
 }
 
-/* Style for table rows */
-/*.solution tr:nth-child(even) {
-  /*  background-color: ; /* Alternate row background color */
 
-/* Hover effect for table rows */
-/*.solution tr:hover {
-    background-color: #ddd; /* Change background color on hover */
 
+
+/* Style for solution table */
