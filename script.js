@@ -625,6 +625,29 @@ const solutions = [
 
     },
     { 
+        problem: "White Headed Borers", 
+        infestationimage: "images/Bore.jpg",
+        description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+
+    },
+    { 
+        problem: "White Headed Borers ", 
+        infestationimage: "images/Bore.jpg",
+        description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water,if you can locate the entry whole use syrage to insert the soulution through the whole.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+
+    },
+
+    { 
         problem: "Solution To Coffee White Headed Borer", 
         infestationimage: "images/Bore.jpg",
         description:"Larvae feed on wood internally, in the main stem and major branches. When mature, adults will leave exit holes 2-4 mm in diameter. Wood dust may be found on ground nearby entrance holes. Other signs of coffee white stem borer include wilting, defoliation, or yellowing of leaves. Tunneling larvae may also cause ridges to develop on the surface of the stem. ",
