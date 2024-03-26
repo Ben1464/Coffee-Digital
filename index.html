@@ -13,12 +13,7 @@
         <h1><span class="word1"><b>Coffee</b></span> <span class="word2">Digital</span></h1>
     </header>
     <div class="introduction">
-        
-        
-        
-        <p><article>Coffee Digital is a comprehensive resource tailored to provide solutions to agronomical challenges facing coffee farmers in Kenya.
-
-            From pest and disease infestations,nutrient deficiencies,stress management and soil amendments. The platform offers targeted remedies curated for maximum effectiveness.Use the search button to search for solutions.</p></article>
+        <p>Coffee Digital is a comprehensive resource tailored to provide solutions to agronomical challenges facing coffee farmers in Kenya. From pest and disease infestations, nutrient deficiencies, stress management, and soil amendments. The platform offers targeted remedies curated for maximum effectiveness. Use the search button to search for solutions.</p>
     </div>
     <main>
         <div class="search-container">
@@ -29,19 +24,19 @@
     </main>
     <section id="contact">
         <div class="contact-form">
-                <h3>Send us feedback </h3>
-                <form action="kimaniben14@gmail.com" method="post">
-                    <input type="text" name="name" placeholder="Your Name" required>
-                    <input type="email" name="email" placeholder="Your Email" required>
-                    <textarea name="message" placeholder="Your Message" required></textarea>
-                    <div class = "button-container">
+            <h3>Send us feedback</h3>
+            <form id="feedbackForm" action="/api/sendFeedback" method="post">
+                <input type="text" name="name" id="name" placeholder="Your Name" required>
+                <input type="email" name="email" id="email" placeholder="Your Email" required>
+                <textarea name="message" id="message" placeholder="Your Message" required></textarea>
+                <!-- CSRF Token for security -->
+                <input type="hidden" name="_csrf" value="your_csrf_token_here">
+                <div class="button-container">
                     <button type="submit">Send</button>
-                    </div>
-                </form>
-            </div>
+                </div>
+            </form>
         </div>
     </section>
-
     <section id="SprayProgram">
         <div class="container">
             <a href="https://drive.google.com/file/d/18_dBlBMCbxoqP1Mi-Yn4QFIbzjEBjaar/view?usp=sharing" class="btn" download>Download Spray Program</a>
@@ -52,9 +47,7 @@
             <p id="footer-date">&copy; 2024 Coffee Digital:All Right Reserved</p>
             <p>RavenDev</p>
             <div class="contact-item">
-
                 <ul>
-
                     <li><a href="https://www.facebook.com/greenlife.co.ke" target="_blank"><i class="fab fa-facebook"></i></a></li>
                     <li><a href=" https://chat.whatsapp.com/KbjboRYTsBY8S8rvjoH3Ku" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                     <li><a href="https://x.com/greenlifeagro?t=9GR2TrbuRZfR2mcTCIXbaQ&s=08" target="_blank"><i class="fab fa-twitter"></i></a></li>
