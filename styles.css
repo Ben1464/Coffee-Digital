@@ -270,8 +270,13 @@ footer {
     border: 1px solid #ddd; /* Add border */
     padding: 3px; /* Add padding */
 }
+.introduction {
+    background-color: #1f1f1f; /* Set the background color to match the solution section */
+    color: #fff; /* Text color */
+    text-align: center;
+    padding: 20px;
+}
 
 
 
 
-/* Style for solution table */
