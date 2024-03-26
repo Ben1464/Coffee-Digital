@@ -999,8 +999,19 @@ const solutions = [
         availablepacksize:"500mls,1ltr.",
         pricerange:"Ksh(600-700),Ksh(1250-1300)."
     },
+    
     { 
-        problem: "Coffee Boron Deficiency", 
+        problem: "Coffee Boron Deficiency ", 
+        infestationimage: "images/borondef.jpg",
+        description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Vitabor-Gold.webp",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(600-700),Ksh(1250-1300)."
+    },
+    { 
+        problem: "Boron Deficiency ", 
         infestationimage: "images/borondef.jpg",
         description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
