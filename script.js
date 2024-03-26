@@ -926,6 +926,17 @@ const solutions = [
         
     },
     { 
+        problem: "Zinc Deficiency ", 
+        infestationimage: "images/Zincdef.jpg",
+        description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
+        solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "images/zinc-gold.webp",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh (650-750),Ksh (1300-1400)."
+        
+    },
+    { 
         problem: "Zinc Deficiency In Coffee", 
         infestationimage: "images/Zincdef.jpg",
         description:"Zinc deficiency causes leaf borders can become curled and the internodes between the leaves are shortened. The green leaf veins stand out from a yellow background. Symptoms are usually more visible at the tips of the branches in new growth. The tree is stunted and takes on a rosette habit.",
