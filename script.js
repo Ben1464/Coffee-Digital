@@ -1650,7 +1650,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
 
 
     }, 
@@ -1662,7 +1662,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
 
     }, 
     { 
@@ -1673,7 +1673,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
     
 
     }, 
@@ -1685,7 +1685,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
     
 
     }, 
@@ -1697,7 +1697,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
     
 
     }, 
@@ -1709,7 +1709,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
 
     }, 
     { 
@@ -1720,7 +1720,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
     
 
     }, 
@@ -1732,7 +1732,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
     
 
     }, 
@@ -1745,7 +1745,7 @@ const solutions = [
         image: "images/Humipower-bag-2048x2048.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
-        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000"
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
     
 
     }, 
@@ -1753,6 +1753,24 @@ const solutions = [
 
     { 
         problem: "Sticker", 
+        infestationimage:"images/stickersp.jpg",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        image: "images/Integra (1).webp",
+        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
+    },
+    { 
+        problem: "Adjuvant", 
+        infestationimage:"images/stickersp.jpg",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        image: "images/Integra (1).webp",
+        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
+    },
+    { 
+        problem: "Adjuvant ", 
         infestationimage:"images/stickersp.jpg",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/Integra (1).webp",
