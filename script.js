@@ -2881,16 +2881,7 @@ const solutions = [
         availablepacksize:"50mls,100mls,250mls,500,1ltr.",
         pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
     },
-    {
-        problem:"Spraying pump",
-        infestationimage:"images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
-        solution:"A digital pump for digital farmers"
-        sprayingintervals:""
-        image:"images/Gstar18.jpg".
-        availablepacksize:"16ltrs,18ltrs",
-        pricerange:"Ksh(7500-8000),Ksh(8500-9000)"
-    }
+    
     
 
 
