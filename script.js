@@ -2782,7 +2782,7 @@ const solutions = [
         pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
     },
     { 
-        problem: "Coffe Root Nematodes", 
+        problem: "Coffee Root Nematodes", 
         infestationimage: "images/Nematodes.jpg",
         description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
         solution: "To eradicate them drench Bazooka 30mls/20lts water.",
