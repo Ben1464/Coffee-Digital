@@ -2502,6 +2502,27 @@ const solutions = [
         pricerange:"Ksh(800-900),Ksh(1500-1600))"
     },
     { 
+        problem: "Black Sooty Mold", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Black Sooty Mold ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    
+    { 
         problem: "Sooty Mould In Coffee", 
         infestationimage: "images/sootymould.jpg",
         description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
