@@ -148,7 +148,7 @@ const solutions = [
 
     { 
         problem: "Green Scales", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -160,7 +160,7 @@ const solutions = [
     },
     { 
         problem: "Green Scales ", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -172,7 +172,7 @@ const solutions = [
     },
     { 
         problem: "Green Scales Infestation In Coffee", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -183,7 +183,7 @@ const solutions = [
     },
     { 
         problem: "Green Scale Infestation In Coffee ", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -194,7 +194,7 @@ const solutions = [
     },
     { 
         problem: "Scales", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -205,7 +205,7 @@ const solutions = [
     },
     { 
         problem: "Scales ", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -216,7 +216,7 @@ const solutions = [
     },
     { 
         problem: "Green Scale", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -227,7 +227,7 @@ const solutions = [
     },
     { 
         problem: "Green Scale ", 
-        infestationimage: "images/scales.jpeg",
+        infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
         solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1855,7 +1855,7 @@ const solutions = [
     },
     { 
         problem: "Stress", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1867,7 +1867,7 @@ const solutions = [
 
     { 
         problem: "Stress Management", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1879,7 +1879,7 @@ const solutions = [
     },
     { 
         problem: "Stress Management ", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1903,7 +1903,7 @@ const solutions = [
     },
     { 
         problem: "Stress Management In Coffee In Coffee Trees ", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1914,7 +1914,7 @@ const solutions = [
     },
     { 
         problem: "Stress Management In Coffee Trees", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1925,7 +1925,7 @@ const solutions = [
     },
     { 
         problem: "Stress In Coffee Trees", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1936,7 +1936,7 @@ const solutions = [
     },
     { 
         problem: "Stress In Coffee Trees ", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1947,7 +1947,7 @@ const solutions = [
     },
     { 
         problem: "Stress Management In Coffee Tree", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -1958,7 +1958,7 @@ const solutions = [
     },
     { 
         problem: "Stress Management In Coffee Tree ", 
-        infestationimage: "images/stressco.jpeg",
+        infestationimage: "images/stress2.jpg",
         description:"Stress in coffee plants can result from various environmental factors such as drought, excessive rainfall, temperature fluctuations, pests, diseases, and soil nutrient deficiencies. These stressors can negatively impact plant health, leading to reduced growth, lower yield, and poor quality beans.Symptoms of stress in coffee plants may include wilting, leaf discoloration, leaf drop, reduced flower and fruit production, and increased susceptibility to diseases and pests.To mitigate stress in coffee plants, farmers employ various management practices such as proper irrigation, shade management, pest and disease control measures, and soil nutrient management. Additionally, selecting coffee varieties adapted to local environmental conditions can help enhance resilience to stressors.Overall, managing stress in coffee plants is crucial for maintaining healthy crops and ensuring sustainable coffee production.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Optimizer-new-2048x2048.webp",
@@ -2412,12 +2412,147 @@ const solutions = [
         sprayingintervals:"During dry season atleast once every year."
     },
     { 
-        problem: "Coffee Planting Procedures", 
-        infestationimage:"images/liming.jpg",
-        description:"The Optimum soil pH for most foods crops is a range of pH 6.0- 7.0. Though a few crops can tolerate slightly acidic soils, further decrease will lower your yields and profits.At low pH levels, calcium, phosphorus, potassium, magnesium and molybdenum nutrients will become deficient.",
-        solution:"Applying agricultural lime ensuring maximum ground coverage, apply during dry seasons.It will improve your crop yields by assisting plants to uptake more nitrogen, phosphorus, magnesium and potassium in acidic soils.",
-        image: "images/limere.jpeg"
+        problem: "Sooty Mould", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
     },
+    { 
+        problem: "Sooty Mould ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Sooty Mould In Coffee", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Sooty Mould In Coffee ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Sooty Mould In Coffee trees", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Sooty Mould In Coffee trees ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Black Sooty Mould", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Black Sooty Mould ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Black Sooty Mould In Coffee Trees", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Black Sooty Mould In Coffee Trees ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Solution To Black Sooty Mould", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Solution To Black Sooty Mould ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Solution To Black Sooty Mould In Coffee Trees", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
+        problem: "Solution To Black Sooty Mould In Coffee Trees ", 
+        infestationimage: "images/sootymould.jpg",
+        description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Jambo-Clean.webp",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+
+    
     // Add more solutions as needed
 ];
 
