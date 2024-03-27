@@ -2741,6 +2741,147 @@ const solutions = [
         availablepacksize:"500mls,1ltr.",
         pricerange:"Ksh(800-900),Ksh(1500-1600))"
     },
+    { 
+        problem: "Nematodes", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Nematodes ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Root Nematodes", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Root Nematodes ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Coffe Root Nematodes", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Coffee Root Nematodes ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Solution To Coffee Root Nematodes", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Solution To Coffee Root Nematodes ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Solution To Root Nematodes In Coffee", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Solution To Root Nematodes In Coffee ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Root Nematodes In Coffee", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Root Nematodes In Coffee ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Root Nematodes In Coffee Trees", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Root Nematodes In Coffee Trees ", 
+        infestationimage: "images/Nematodes.jpg",
+        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        solution: "To eradicate them drench Bazooka 30mls/20lts water.",
+        sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
+        image: "images/Bazooka-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+
 
     
     // Add more solutions as needed
