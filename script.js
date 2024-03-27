@@ -2891,6 +2891,37 @@ const solutions = [
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
     },
+    { 
+        problem: "Greenlife Star Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Greenlife Star Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Greenlife Star Pump 18 liters", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+
     
     
 
