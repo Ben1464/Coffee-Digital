@@ -645,7 +645,7 @@ const solutions = [
     { 
         problem: "Coffee Stem Borer ", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
@@ -655,7 +655,7 @@ const solutions = [
     { 
         problem: "Coffee Stem Borer", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
@@ -665,7 +665,7 @@ const solutions = [
     { 
         problem: "Coffee Stem Borers", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
@@ -675,8 +675,7 @@ const solutions = [
     { 
         problem: "Coffee Stem Borers ", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
-        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
         availablepacksize:"40mls,100mls,1ltr.",
@@ -685,7 +684,7 @@ const solutions = [
     { 
         problem: "Stem Borer", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
@@ -695,7 +694,7 @@ const solutions = [
     { 
         problem: "Stem Borer ", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
@@ -705,7 +704,7 @@ const solutions = [
     { 
         problem: "Stem Borers", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
@@ -715,7 +714,7 @@ const solutions = [
     { 
         problem: "Stem Borers ", 
         infestationimage: "images/stemborer.jpg",
-        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/Lexus-247SC.webp",
