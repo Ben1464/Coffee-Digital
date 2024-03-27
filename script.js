@@ -613,6 +613,26 @@ const solutions = [
         pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
     },
     { 
+        problem: "Coffee Berry Borer", 
+        infestationimage: "images/Coffee berry borer.jpg",
+        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Coffee Berry Borer ", 
+        infestationimage: "images/Coffee berry borer.jpg",
+        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
         problem: "Berry Borer ", 
         infestationimage: "images/Coffee berry borer.jpg",
         description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
