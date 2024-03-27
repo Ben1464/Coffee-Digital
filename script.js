@@ -2985,7 +2985,7 @@ function searchSolutions() {
     });
 
     if (filteredSolutions.length === 0) {
-        solutionResults.innerHTML = "<p>Kindly try rephrasing your search again.</p>";
+        solutionResults.innerHTML = "<p>Kindly check your spelling or try rephrasing your search again.</p>";
     } else {
         filteredSolutions.forEach(solution => {
             const solutionDiv = document.createElement("div");
