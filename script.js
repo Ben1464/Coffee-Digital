@@ -2834,7 +2834,7 @@ const solutions = [
     { 
         problem: "Solution To Root Nematodes In Coffee ", 
         infestationimage: "images/Nematodes5.jpg",
-        description:"Nematodes are multicellular microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
+        description:"Nematodes are multicelluimages/Green-Cop.webplar microorgan- isms 0.1-5 mm long and shaped like cylindrical worms. They are found in the soil and inside the roots of coffee trees where they feed on the sap through their fine proboscis.",
         solution: "To eradicate them drench Bazooka 30mls/20lts water.",
         sprayingintervals: "Do soil drenching atleast three times in an year 2 ltrs per stem during the rainy seasons",
         image: "images/Bazooka-2048x2048.webp",
@@ -3000,6 +3000,16 @@ const solutions = [
         image: "images/Gstar18.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Nursery Management", 
+        infestationimage: "images/leafrust.jpg",
+        description:"About 23,500,000 results (0.38 seconds)Key steps include selecting a level site with access to water; constructing east-west oriented beds; germinating certified seeds 1cm deep in sand at 2.5cm spacing; maintaining seedlings by watering twice per week and controlling weeds,pests and diseases",
+        solution: "For preventive actions use Greencop 140gms/20ltrs and Kingcode 10mls/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/GreenKing.jpg",
+        sprayingintervals: "Repeat spray atleast once every month",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
     },
     
 
