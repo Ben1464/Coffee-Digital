@@ -3011,6 +3011,47 @@ const solutions = [
         availablepacksize:"500gms,1kg,2kgs.",
         pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
     },
+    { 
+        problem: "Nursery Management ", 
+        infestationimage: "images/leafrust.jpg",
+        description:"About 23,500,000 results (0.38 seconds)Key steps include selecting a level site with access to water; constructing east-west oriented beds; germinating certified seeds 1cm deep in sand at 2.5cm spacing; maintaining seedlings by watering twice per week and controlling weeds,pests and diseases",
+        solution: "For preventive actions use Greencop 140gms/20ltrs and Kingcode 10mls/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/GreenKing.jpg",
+        sprayingintervals: "Repeat spray atleast once every month",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Coffee Nursery Management", 
+        infestationimage: "images/leafrust.jpg",
+        description:"About 23,500,000 results (0.38 seconds)Key steps include selecting a level site with access to water; constructing east-west oriented beds; germinating certified seeds 1cm deep in sand at 2.5cm spacing; maintaining seedlings by watering twice per week and controlling weeds,pests and diseases",
+        solution: "For preventive actions use Greencop 140gms/20ltrs and Kingcode 10mls/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/GreenKing.jpg",
+        sprayingintervals: "Repeat spray atleast once every month",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Coffee Nursery Management ", 
+        infestationimage: "images/leafrust.jpg",
+        description:"About 23,500,000 results (0.38 seconds)Key steps include selecting a level site with access to water; constructing east-west oriented beds; germinating certified seeds 1cm deep in sand at 2.5cm spacing; maintaining seedlings by watering twice per week and controlling weeds,pests and diseases",
+        solution: "For preventive actions use Greencop 140gms/20ltrs and Kingcode 10mls/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/GreenKing.jpg",
+        sprayingintervals: "Repeat spray atleast once every month",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Coffee Trees Nursery Management", 
+        infestationimage: "images/leafrust.jpg",
+        description:"About 23,500,000 results (0.38 seconds)Key steps include selecting a level site with access to water; constructing east-west oriented beds; germinating certified seeds 1cm deep in sand at 2.5cm spacing; maintaining seedlings by watering twice per week and controlling weeds,pests and diseases",
+        solution: "For preventive actions use Greencop 140gms/20ltrs and Kingcode 10mls/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/GreenKing.jpg",
+        sprayingintervals: "Repeat spray atleast once every month",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+
     
 
 
