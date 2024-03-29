@@ -3009,7 +3009,8 @@ const solutions = [
         image: "images/GreenKing.jpg",
         sprayingintervals: "Repeat spray atleast once every month",
         availablepacksize:"500gms,1kg,2kgs.",
-        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)",
+        
     },
     { 
         problem: "Nursery Management ", 
@@ -3050,6 +3051,87 @@ const solutions = [
         sprayingintervals: "Repeat spray atleast once every month",
         availablepacksize:"500gms,1kg,2kgs.",
         pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Manure application", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+    { 
+        problem: "Manure application ", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+    { 
+        problem: "Manure Application In Coffee Trees", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+    { 
+        problem: "Manure Application In Coffee Trees ", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+
+    { 
+        problem: "Manuring Coffee Trees", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+    { 
+        problem: "How To Apply Manure In Coffee Trees", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+    { 
+        problem: "Right Time To Applly Manure In Coffee Trees", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
+    },
+    { 
+        problem: "Right Time To Applly Manure In Coffee Trees ", 
+        infestationimage: "images/manure.webp",
+        description:"Apply about 3 - 5kg of organic manure around each coffee plant to improve plant growth and yield, once a year at the beginning of the rains. Apply fertilizer within the rooting zone (under the tree canopy).",
+        solution: "Ensure the manure is well composed before application",
+        image: "images/manure fed.webp",
+        sprayingintervals: "Repeat spray atleast once every year",
+        availablepacksize:"",
+        pricerange:""
     },
 
     
