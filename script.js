@@ -3133,8 +3133,101 @@ const solutions = [
         availablepacksize:"",
         pricerange:""
     },
+    { 
+        problem: "Weed Management", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+    { 
+        problem: "Weed Management ", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+    { 
+        problem: "Weed Management In Coffee Trees", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+
+    { 
+        problem: "Weed Management In Coffee Trees ", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+
+    { 
+        problem: "Weed Management In Coffee Trees Farms", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+    { 
+        problem: "Weed Management In Coffee Farm", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+    { 
+        problem: "Weed Management In Coffee Farm ", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+    { 
+        problem: "Coffee Farm Weed Management", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+    { 
+        problem: "Coffee Farm Weed Management", 
+        infestationimage: "images/Coffee weeds.webp",
+        description:"Weeds are a major problem in many crops and coffee is not an exception. They infest these crops in nurseries to established plantations where a large number of perrenial and annual weeds grow. The commonly found weeds in coffe include,pig weed, blackjack, gallant soldier Mexican marigold,wandering jew,nutgrass, love grass,couch grass, star grass just to mention a few.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying once during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
 
     
+
 
 
 
@@ -3191,4 +3284,28 @@ function searchSolutions() {
             solutionResults.appendChild(solutionDiv);
         });
     }
+}
+
+function submitFeedback(event) {
+    event.preventDefault(); // Prevent default form submission
+
+    const form = document.getElementById('feedbackForm');
+    const formData = new FormData(form);
+
+    fetch('/submit-feedback', {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => {
+        if (response.ok) {
+            alert('Feedback submitted successfully!');
+            form.reset(); // Optionally reset the form
+        } else {
+            alert('Failed to submit feedback. Please try again later.');
+        }
+    })
+    .catch(error => {
+        console.error('Error submitting feedback:', error);
+        alert('An error occurred. Please try again later.');
+    });
 }
