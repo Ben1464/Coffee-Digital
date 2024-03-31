@@ -3286,26 +3286,43 @@ function searchSolutions() {
     }
 }
 
-function submitFeedback(event) {
-    event.preventDefault(); // Prevent default form submission
+function sendFeedback(event) {
+    // Prevent the default form submission behavior
+    event.preventDefault();
 
-    const form = document.getElementById('feedbackForm');
-    const formData = new FormData(form);
+    // Get form data
+    const formData = new FormData(event.target);
 
-    fetch('/submit-feedback', {
+    // Create an object to hold the form data
+    const feedbackData = {};
+    formData.forEach((value, key) => {
+        feedbackData[key] = value;
+    });
+
+    // Make a POST request to the server
+    fetch('http://localhost:3000/send-email', {
         method: 'POST',
-        body: formData
+        headers: {
+            'Content-Type': 'application/json' // Set the content type to JSON
+        },
+        body: JSON.stringify(feedbackData) // Convert the form data object to JSON string
     })
     .then(response => {
-        if (response.ok) {
-            alert('Feedback submitted successfully!');
-            form.reset(); // Optionally reset the form
-        } else {
-            alert('Failed to submit feedback. Please try again later.');
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
         }
+        // Handle successful response (optional)
+        formData.reset();
+        console.log('Feedback sent successfully!');
+        // You can display a success message or perform any other actions here
     })
     .catch(error => {
-        console.error('Error submitting feedback:', error);
-        alert('An error occurred. Please try again later.');
+        // Handle error (optional)
+        console.error('Error sending feedback:', error.message);
+        // You can display an error message or perform any other actions here
     });
 }
+
+// Attach sendFeedback function to the form submission event
+const feedbackForm = document.getElementById('feedbackForm');
+feedbackForm.addEventListener('submit', sendFeedback);
