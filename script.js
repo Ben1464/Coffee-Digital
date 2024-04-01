@@ -3312,10 +3312,16 @@ function sendFeedback(event) {
             throw new Error('Network response was not ok');
         }
         // Handle successful response (optional)
-        var tag = document.getElementById("received");
-        tag.innerHtml= response.data.message || "Sent successfully";
+        event.target.reset();
+        
+        
         console.log('Feedback sent successfully!');
         // You can display a success message or perform any other actions here
+    })
+    .then(data => {
+        var tag = document.getElementById('received');
+        tag.innerHTML = data.message || "Sent successfully";
+        
     })
     .catch(error => {
         // Handle error (optional)
