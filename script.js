@@ -3313,7 +3313,7 @@ function sendFeedback(event) {
         }
         // Handle successful response (optional)
         var tag = document.getElementById("received");
-        tag.innerHtml= response.message || "Sent successfully";
+        tag.innerHtml= response.data.message || "Sent successfully";
         console.log('Feedback sent successfully!');
         // You can display a success message or perform any other actions here
     })
