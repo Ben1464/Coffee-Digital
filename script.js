@@ -3312,7 +3312,7 @@ function sendFeedback(event) {
             throw new Error('Network response was not ok');
         }
         // Handle successful response (optional)
-        var tag = document.getElementById("recived");
+        var tag = document.getElementById("received");
         tag.innerHtml= response.message || "Sent successfully";
         console.log('Feedback sent successfully!');
         // You can display a success message or perform any other actions here
