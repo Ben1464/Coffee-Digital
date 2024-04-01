@@ -172,10 +172,20 @@ footer {
     text-align: center; /* Center align text */
 }
 
-.container {
+.donwload {
+    height: 30px;
     max-width: 800px; /* Limit container width for better readability */
     margin: 0 auto; /* Center the container */
 }
+.donwload a{
+    position: absolute;
+    left: 0;
+}
+form button{
+    position: absolute;
+    right: 0;
+}
+
 
 .contact-info {
     display: flex;
@@ -276,10 +286,10 @@ footer {
     text-align: center;
     padding: 20px;
 }
-/* .received {
+ .received {
     font-size:1.2rem;
     color: green;
-} */
+} 
 
 
 
