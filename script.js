@@ -3316,6 +3316,7 @@ function sendFeedback(event) {
         
         
         console.log('Feedback sent successfully!');
+        return response.json();
         // You can display a success message or perform any other actions here
     })
     .then(data => {
