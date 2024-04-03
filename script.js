@@ -3387,3 +3387,15 @@ function sendFeedback(event) {
 // Attach sendFeedback function to the form submission event
 const feedbackForm = document.getElementById('feedbackForm');
 feedbackForm.addEventListener('submit', sendFeedback);
+
+// Function to update the footer date dynamically
+function updateFooterDate() {
+    // Get the current year
+    var currentYear = new Date().getFullYear();
+    
+    // Update the content of the footer with the current year
+    document.getElementById("footer-date").innerHTML = "&copy; " + currentYear + " Coffee Digital: All Right Reserved";
+}
+
+// Call the function to update the footer date once the page is loaded
+window.onload = updateFooterDate;
