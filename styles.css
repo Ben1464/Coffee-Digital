@@ -111,7 +111,7 @@ button:hover,
 
 footer {
     background: linear-gradient(135deg, #3BD045, #EF1105);
-    color: #fff;
+    color: black;
     text-align: center;
     padding: 10px 0; /* Increased padding for better spacing */
 }
