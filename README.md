@@ -13,5 +13,8 @@ In essence, Coffee Digital transcends the boundaries of conventional agricultura
 Join the movement and discover the difference that Coffee Digital can make in your journey as a coffee farmer. Together, let's cultivate not just coffee beans, but a future where sustainable farming practices flourish, and communities thrive.
 
 
+Live link: https://coffee-digital.vercel.app/
+
+
 
 
