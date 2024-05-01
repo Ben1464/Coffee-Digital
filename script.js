@@ -12,6 +12,51 @@ const solutions = [
        
     },
     { 
+        problem: "Kingcode Elite", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use after spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Kingcode Elite ", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use after spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Kingcode", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use after spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    { 
+        problem: "Kingcode ", 
+        infestationimage: "images/Kingcode-elite-2048x2048.webp",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        solution: "Use after spotting cases of infrstation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/thrips.jpg",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+       
+    },
+    
+    { 
         problem: "Thrips Infestation In Coffee", 
         infestationimage: "images/thrips.jpg",
         description: "Thrips infestations pose a serious threat to coffee production, impacting on the tree health and berries quality. Vigilance and prompt action are essential for mitigating these pest's impact. By employing early detection methods and implementing appropriate management strategies, coffee farmers can protect their crops and ensure a sustainable yield in the face of thrips infestations.",
@@ -247,6 +292,27 @@ const solutions = [
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
     },
+    { 
+        problem: "Presento", 
+        infestationimage: "images/PRESENTO-KG-2048x2048.webp",
+        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of insects with broad spectrum long residual activity widely used in coffee,ornamentals and edible crops.",
+        solution: "Use after spotting infestation cases.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/leafminers.jpg",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+    { 
+        problem: "Presento ", 
+        infestationimage: "images/PRESENTO-KG-2048x2048.webp",
+        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of insects with broad spectrum long residual activity widely used in coffee,ornamentals and edible crops.",
+        solution: "Use after spotting infestation cases.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/leafminers.jpg",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+
     { 
         problem: "Leaf Miners Solution in Coffee", 
         infestationimage: "images/leafminers.jpg",
@@ -545,16 +611,28 @@ const solutions = [
         pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
     },
 
+   
     { 
-        problem: "Antestia Bug", 
-        infestationimage: "images/antestia.jpeg",
-        description: "The Antestia bug (Antestiopsis spp.), or variegated coffee bug, is a significant pest in Arabica coffee, especially in Eastern Africa. From nymphs to adults, all development instars, feed on most parts of the coffee bushes. An Antestia bug infestation can lead to a direct yield reduction of up to 40 percent.",
-        solution: "To eradicate them use Ranger 40mls + Integra 3mls/20ltrs of water.",
+        problem: "Ranger", 
+        infestationimage: "images/ranger-480EC.webp",
+        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used in agriculture for controlling pests like scales,mealybugs and leafminers. It is also used as termiticide for termites in construction buildings and fruit trees.",
+        solution: "Use during onset of infestation,when you are not havesting your berries.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
-        image: "images/ranger-480EC.webp",
+        image: "./images/scales.jpeg",
         availablepacksize:"100mls,250mls,500mls,1ltr.",
         pricerange:"Ksh (300-350),Ksh (600-650),Ksh 1050-1100),1ltr(Ksh 1800-2000)"
     },
+    { 
+        problem: "Ranger ", 
+        infestationimage: "images/ranger-480EC.webp",
+        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used in agriculture for controlling pests like scales,mealybugs and leafminers. It is also used as termiticide for termites in construction buildings and fruit trees.",
+        solution: "Use during onset of infestation,when you are not havesting your berries.",
+        sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/scales.jpeg",
+        availablepacksize:"100mls,250mls,500mls,1ltr.",
+        pricerange:"Ksh (300-350),Ksh (600-650),Ksh 1050-1100),1ltr(Ksh 1800-2000)"
+    },
+    
     { 
         problem: "Antestia Bug ", 
         infestationimage: "images/antestia.jpeg",
@@ -682,6 +760,27 @@ const solutions = [
         availablepacksize:"40mls,100mls,1ltr.",
         pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
     },
+    { 
+        problem: "Lexus", 
+        infestationimage: "images/Lexus-247SC.webp",
+        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of Scales,Leaf miners,Berry borer,Berry moth, Aphids, Whiteflies, Diamond back moth, Thrips and Caterpillars on Coffee Roses and Vegetables.",
+        solution: "Use upon spotting cases of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/Coffee berry borer.jpg",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Lexus ", 
+        infestationimage: "images/Lexus-247SC.webp",
+        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of Scales,Leaf miners,Berry borer,Berry moth, Aphids, Whiteflies, Diamond back moth, Thrips and Caterpillars on Coffee Roses and Vegetables.",
+        solution: "Use upon spotting cases of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/Coffee berry borer.jpg",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+
     { 
         problem: "Coffee Berry Borer", 
         infestationimage: "images/Coffee berry borer.jpg",
@@ -1138,6 +1237,27 @@ const solutions = [
         pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
     },
     { 
+        problem: "Bazooka", 
+        infestationimage: "images/Bazooka-2048x2048.webp",
+        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control insect and mite pests of a range of agronomic, fruit, vegetable and ornamental crops.",
+        solution: "Start spraying after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/Mites.jpg",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+    { 
+        problem: "Bazooka ", 
+        infestationimage: "images/Bazooka-2048x2048.webp",
+        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control insect and mite pests of a range of agronomic, fruit, vegetable and ornamental crops.",
+        solution: "Start spraying after spotting signs of infestation.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "./images/Mites.jpg",
+        availablepacksize:"50mls,100mls,250mls,500,1ltr.",
+        pricerange:"Ksh( 150-200),Ksh (300-350),Ksh (600-650),Ksh (1600-1700)"
+    },
+
+    { 
         problem: "Mite ", 
         infestationimage: "images/Mites.jpg",
         description:"Spider mites cause damage by sucking cell contents from leaves. A small number of mites isn't usually a problem, but very high populations can be damaging, especially to annual plants. Often, damage first appears as a stippling of light dots on the leaves; sometimes leaves turn a bronze color",
@@ -1314,6 +1434,28 @@ const solutions = [
         availablepacksize:"500gms,1kg,2kgs.",
         pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
     },
+
+    { 
+        problem: "Greencop ", 
+        infestationimage: "images/Green-Cop.webp",
+        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        solution: "For preventive actions use 140gms/20ltrs of water during dry seasons.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    
+    { 
+        problem: "Greencop", 
+        infestationimage: "images/Green-Cop.webp",
+        description:"Green Cop® 500WP is an excellent contact fungicide with protective action for the control of wide range of diseases particularly Botrytis, rust, Angular leaf spot, Early and Late blight, Coffee leaf rust, and Coffee berry disease (CBD).",
+        solution: "For preventive actions use 140gms/20ltrs of water during dry seasons.",
+        image: "./images/leafrust.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
     { 
         problem: "Leaf Rust ", 
         infestationimage: "images/leafrust.jpg",
@@ -1398,6 +1540,70 @@ const solutions = [
         availablepacksize:"50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
     },
+
+    { 
+        problem: "Absolute Star", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+    },
+    { 
+        problem: "Absolute Star ", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+    },
+    { 
+        problem: "Absolute ", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+    },
+    { 
+        problem: "Absolute", 
+        infestationimage: "images/Absolute-star-2048x2048.webp",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+    },
+
+    { 
+        problem: "Compliant", 
+        infestationimage: "./images/compliant.webp",
+        description:"Compliant® 560SC is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"Ksh(500-600),Ksh(850-900),Ksh(2800-3000)."
+    },
+
+    { 
+        problem: "Compliant ", 
+        infestationimage: "./images/compliant.webp",
+        description:"Compliant® 560SC is a contact and systemic fungicide for the control of various diseases in agricultural crops including coffee berry diseaes and leaf rust in coffee",
+        solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/CBD.jpg",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
+        availablepacksize:"100mls,250mls,1ltr.",
+        pricerange:"Ksh(500-600),Ksh(850-900),Ksh(2800-3000)."
+    },
+
     { 
         problem: "Coffee Berry Disease ", 
         infestationimage: "images/CBD.jpg",
@@ -1552,6 +1758,30 @@ const solutions = [
         pricerange:"Ksh (650-750),Ksh (1300-1400)."
         
     },
+
+    { 
+        problem: "Zinc Gold", 
+        infestationimage: "images/zinc-gold.webp",
+        description:"inc Gold® is a sugar alcohol zinc foliar fertilizer with a special natural sugar alcohol chelating technique for leaf spraying to accelerate the absorption of zinc and make zinc which is difficult to move, move quickly in the plant and act directly on the growth centre, in a wide range of agricultural crops.",
+        solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "images/Zincdef.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh (650-750),Ksh (1300-1400)."
+        
+    },
+
+    { 
+        problem: "Zinc Gold ", 
+        infestationimage: "images/zinc-gold.webp",
+        description:"inc Gold® is a sugar alcohol zinc foliar fertilizer with a special natural sugar alcohol chelating technique for leaf spraying to accelerate the absorption of zinc and make zinc which is difficult to move, move quickly in the plant and act directly on the growth centre, in a wide range of agricultural crops.",
+        solution: "Use Zinc Gold 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "images/Zincdef.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh (650-750),Ksh (1300-1400)."
+        
+    },
     { 
         problem: "Zinc Deficiency ", 
         infestationimage: "images/Zincdef.jpg",
@@ -1628,10 +1858,21 @@ const solutions = [
         availablepacksize:"500mls,1ltr.",
         pricerange:"Ksh(600-700),Ksh(1250-1300)."
     },
+
+    { 
+        problem: "Vitabor Gold", 
+        infestationimage: "images/Vitabor-Gold.webp",
+        description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
+        solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/borondef.jpg",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(600-700),Ksh(1250-1300)."
+    },
     { 
         problem: "Boron Deficiency ", 
         infestationimage: "images/borondef.jpg",
-        description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
+        description:"Vitabor Gold® is a highly soluble, effective and cost-efficient foliar fertilizer containing readily available Boron and Nitrogen for the plant. Its formulation includes the necessary additives for a perfect adherence in the leaves of the crops.",
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Vitabor-Gold.webp",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
@@ -1703,6 +1944,49 @@ const solutions = [
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
         pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
     },
+
+    { 
+        problem: "Lavender Total", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Phosphorus.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+
+    { 
+        problem: "Lavender Total ", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Phosphorus.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+    { 
+        problem: "Lavender", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Phosphorus.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+    { 
+        problem: "Lavender ", 
+        infestationimage: "images/Lavender-total-combine-2048x2048.webp",
+        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
+        image: "images/Phosphorus.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
+        pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
+    },
+
     { 
         problem: "Phosphorus Deficiency ", 
         infestationimage: "images/Phosphorus.jpg",
@@ -1855,6 +2139,37 @@ const solutions = [
         pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
     },
     { 
+        problem: "Goldchance Fruit & Flower", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
+        image: "images/Pottasium.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+
+    { 
+        problem: "Goldchance", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
+        image: "images/Pottasium.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+    { 
+        problem: "Goldchance ", 
+        infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
+        description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
+        solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
+        image: "images/Pottasium.jpg",
+        sprayingintervals: "Repeat spray after 21 days.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
+    },
+    { 
         problem: "Potassium Deficiency In Coffee ", 
         infestationimage: "images/Pottasium.jpg",
         description:"Potassium deficiency in coffee berries manifests as smaller, irregularly shaped berries with uneven ripening. The berries may have a shriveled appearance and lack sweetness. Additionally, potassium-deficient plants are more susceptible to diseases and environmental stresses. To address this deficiency, potassium-rich fertilizers can be applied, and soil pH should be monitored to ensure optimal nutrient uptake.",
@@ -1936,6 +2251,31 @@ const solutions = [
         description:"Soil acidity is a critical factor affecting plant health and crop productivity. It refers to the pH level of the soil, with acidic soils having pH values below 7. Acidic soils can hinder nutrient availability, impacting plant growth and development.Managing soil acidity is essential for optimizing agricultural yields. Techniques such as liming can help raise soil pH, making essential nutrients more available to plants. Regular soil testing and pH monitoring are vital for maintaining optimal soil conditions and maximizing crop performance.In conclusion, soil acidity significantly influences agricultural outcomes, and proactive management is key to ensuring healthy and productive soil for sustainable farming practices.",
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
         image: "images/Humipower-bag-2048x2048.webp",
+        sprayingintervals: "Use while applying basal fertilizers.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
+
+    }, 
+
+    { 
+        problem: "Humipower", 
+        infestationimage: "images/Humipower-bag-2048x2048.webp",
+        description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
+        solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
+        image: "images/soilacid.jpeg",
+        sprayingintervals: "Use while applying basal fertilizers.",
+        availablepacksize:"500gms,1kg,25kgs",
+        pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
+
+    }, 
+
+
+{ 
+        problem: "Humipower ", 
+        infestationimage: "images/Humipower-bag-2048x2048.webp",
+        description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
+        solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
+        image: "images/soilacid.jpeg",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
         pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
@@ -2037,6 +2377,26 @@ const solutions = [
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
     { 
+        problem: "Integra", 
+        infestationimage:"images/Integra (1).webp",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        image: "images/stickersp.jpg",
+        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
+    },
+
+    { 
+        problem: "Integra ", 
+        infestationimage:"images/Integra (1).webp",
+        solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
+        image: "images/stickersp.jpg",
+        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
+    },
+
+    { 
         problem: "Adjuvant", 
         infestationimage:"images/stickersp.jpg",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
@@ -2074,6 +2434,19 @@ const solutions = [
         pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
 
     },
+
+    { 
+        problem: "Optimizer", 
+        infestationimage: "images/Optimizer-new-2048x2048.webp",
+        description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.",
+        solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
+        image: "images/stress2.jpg",
+        sprayingintervals:"Spray it every time you observe coffee trees are under stress",
+        availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
+        pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
+
+    },
+
 
     { 
         problem: "Stress Management", 
@@ -2652,6 +3025,27 @@ const solutions = [
         pricerange:"Ksh(800-900),Ksh(1500-1600))"
     },
     { 
+        problem: "Jambo Clean", 
+        infestationimage: "images/Jambo-Clean.webp",
+        description:"Jambo Clean® is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/sooty.jpg",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+
+    { 
+        problem: "Jambo Clean ", 
+        infestationimage: "images/Jambo-Clean.webp",
+        description:"Jambo Clean® is a combination of cleaner and fertilizer, which removes all sooty moulds, honeydew, dust, grease and other contaminants off leaf surface, nourishes crops by supplying phosphorus and nitrogen, necessitates maximum light exposure for photosynthesis, eliminates other predisposing factors and consequently maintains healthier plant all year round.",
+        solution: "To eradicate them use Jambo Clean 100mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/sooty.jpg",
+        availablepacksize:"500mls,1ltr.",
+        pricerange:"Ksh(800-900),Ksh(1500-1600))"
+    },
+    { 
         problem: "Sooty Mold In Coffee", 
         infestationimage: "images/sooty.jpg",
         description:"Sooty mould develops when the plant is infested with scale, mealybugs, aphids or other sucking insects. Leaves covered with black, powdery soot. The fungus grows on honeydew produced by green coffee scale and sucking insects. Ants care for the scales and spread the sooty mould.",
@@ -2997,11 +3391,52 @@ const solutions = [
         infestationimage: "images/Greenlifestar.jpg",
         description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
-        sprayingintervals: "Always have it fully charged after every spray",
+        sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
     },
+    { 
+        problem: "Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Electric Pump", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+    { 
+        problem: "Electric Pump ", 
+        infestationimage: "images/Greenlifestar.jpg",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        solution: "A digital pump for digital farmers",
+        sprayingintervals: "Always have it fully charged after every spray.",
+        image: "images/Gstar18.jpg",
+        availablepacksize:"16ltrs,18ltrs",
+        pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
+    },
+
     { 
         problem: "Greenlife Star Pump", 
         infestationimage: "images/Greenlifestar.jpg",
@@ -3077,7 +3512,7 @@ const solutions = [
         infestationimage: "images/Greenlifestar.jpg",
         description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
-        sprayingintervals: "Always have it fully charged after every spray",
+        sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
@@ -3087,7 +3522,7 @@ const solutions = [
         infestationimage: "images/Greenlifestar.jpg",
         description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
-        sprayingintervals: "Always have it fully charged after every spray",
+        sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
@@ -3097,7 +3532,7 @@ const solutions = [
         infestationimage: "images/Greenlifestar.jpg",
         description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
-        sprayingintervals: "Always have it fully charged after every spray",
+        sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
@@ -3107,7 +3542,7 @@ const solutions = [
         infestationimage: "images/Greenlifestar.jpg",
         description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
-        sprayingintervals: "Always have it fully charged after every spray",
+        sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
         availablepacksize:"16ltrs,18ltrs",
         pricerange:"Ksh( 7500-8000),Ksh (8500-9000)"
@@ -3254,6 +3689,28 @@ const solutions = [
         availablepacksize:"1ltr.",
         pricerange:"Ksh(2400-2600)"
     },
+    { 
+        problem: "Wembe", 
+        infestationimage: "images/Wembe-200-SL-2048x2048.webp",
+        description:"Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+
+{ 
+        problem: "Wembe ", 
+        infestationimage: "images/Wembe-200-SL-2048x2048.webp",
+        description:"Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses.",
+        solution: "Wembe® 200 SL is a highly systemic non selective broad-spectrum post-emergence herbicide for control of grass and broad-leaved weeds in crop land. Use during land preparation, minimum and/or zero tillage cultivation for cereals and other crops, clearing of bushes, shrubs and perennial grasses. Use 150mls/20ltrs of water.",
+        sprayingintervals: "Do spraying during rainy seasons when weeds are prevalent.",
+        image: "images/Wembe-200-SL-2048x2048.webp",
+        availablepacksize:"1ltr.",
+        pricerange:"Ksh(2400-2600)"
+    },
+
     { 
         problem: "Weed Management ", 
         infestationimage: "images/Coffee weeds.webp",
