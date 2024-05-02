@@ -3989,3 +3989,26 @@ function updateFooterDate() {
 
 // Call the function to update the footer date once the page is loaded
 window.onload = updateFooterDate;
+
+
+// Function to parse URL parameters
+function getQueryParam(param) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+}
+
+// Function to handle automatic search based on URL parameter
+function handleAutomaticSearch() {
+    const searchQuery = getQueryParam('search');
+    if (searchQuery) {
+        // Perform search based on the query parameter
+        document.getElementById("searchInput").value = searchQuery;
+        searchSolutions();
+    }
+}
+
+// Call the function to handle automatic search when the page loads
+window.onload = function() {
+    updateFooterDate(); // Update footer date as before
+    handleAutomaticSearch(); // Perform automatic search based on URL parameter
+};
