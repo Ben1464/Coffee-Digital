@@ -2494,7 +2494,7 @@ const solutions = [
         description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "./images/ripeberries.jpg",
-        sprayingintervals:"Spray it every time you observe coffee trees are under stress",
+        sprayingintervals:"Spray it every time you observe coffee trees are under stress.",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
         pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
 
@@ -2506,7 +2506,7 @@ const solutions = [
         description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
         image: "images/ripeberries.jpg",
-        sprayingintervals:"Spray it every time you observe coffee trees are under stress",
+        sprayingintervals:"Spray it every time you observe coffee trees are under stress.",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
         pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
 
@@ -3453,7 +3453,7 @@ const solutions = [
     { 
         problem: "Spraying Pump", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3463,7 +3463,7 @@ const solutions = [
     { 
         problem: "Pump", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3473,7 +3473,7 @@ const solutions = [
     { 
         problem: "Pump ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3483,7 +3483,7 @@ const solutions = [
     { 
         problem: "Electric Pump", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3493,7 +3493,7 @@ const solutions = [
     { 
         problem: "Electric Pump ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3504,7 +3504,7 @@ const solutions = [
     { 
         problem: "Greenlife Star Pump", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3514,7 +3514,7 @@ const solutions = [
     { 
         problem: "Greenlife Star Pump ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3524,7 +3524,7 @@ const solutions = [
     { 
         problem: "Greenlife Star Pump 18 liters", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3534,7 +3534,7 @@ const solutions = [
     { 
         problem: "Knapsack Pump", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3544,7 +3544,7 @@ const solutions = [
     { 
         problem: "Knapsack Pump ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3554,7 +3554,7 @@ const solutions = [
     { 
         problem: "Knapsack Sprayer", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3564,7 +3564,7 @@ const solutions = [
     { 
         problem: "Knapsack Sprayer ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray",
         image: "images/Gstar18.jpg",
@@ -3574,7 +3574,7 @@ const solutions = [
     { 
         problem: "Sprayer ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3584,7 +3584,7 @@ const solutions = [
     { 
         problem: "Sprayer", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3594,7 +3594,7 @@ const solutions = [
     { 
         problem: "Sprayers", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
@@ -3604,7 +3604,7 @@ const solutions = [
     { 
         problem: "Sprayers ", 
         infestationimage: "images/Greenlifestar.jpg",
-        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It is suitable for use for all agricultural and fumigation purposes.",
+        description:"Greenlife star battery sprayer (2 in 1) is a modern battery back-mounted sprayer designed to fit in the back curve of the human body. It has both the manual and electric optiopns. It takes 3-4 hours to charge. When fully charged it can spray 15-30 pumps.It is suitable for use for all agricultural and fumigation purposes.",
         solution: "A digital pump for digital farmers",
         sprayingintervals: "Always have it fully charged after every spray.",
         image: "images/Gstar18.jpg",
