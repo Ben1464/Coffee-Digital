@@ -14,7 +14,7 @@ const solutions = [
     { 
         problem: "Kingcode Elite", 
         infestationimage: "images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
         solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -25,7 +25,7 @@ const solutions = [
     { 
         problem: "Kingcode Elite ", 
         infestationimage: "images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
         solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -36,7 +36,7 @@ const solutions = [
     { 
         problem: "Kingcode", 
         infestationimage: "images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
         solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -47,7 +47,7 @@ const solutions = [
     { 
         problem: "Kingcode ", 
         infestationimage: "images/Kingcode-elite-2048x2048.webp",
-        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
+        description: "Kingcode Elite® 50EC is a highly systemic and contact insecticide and is active against all sucking and chewing pests like thrips,white flies,aphids,mealybugs,leafminers,berrybores and berry moths with broad spectrum long residual activity.",
         solution: "Use Kingcode 10mls/20ltrs plus Integra 3mls/20ltrs of water.After spotting cases of infrstation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/thrips.jpg",
@@ -295,7 +295,7 @@ const solutions = [
     { 
         problem: "Presento", 
         infestationimage: "images/PRESENTO-KG-2048x2048.webp",
-        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of insects with broad spectrum long residual activity widely used in coffee,ornamentals and edible crops.",
+        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
         solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/leafminers.jpg",
@@ -305,7 +305,7 @@ const solutions = [
     { 
         problem: "Presento ", 
         infestationimage: "images/PRESENTO-KG-2048x2048.webp",
-        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of insects with broad spectrum long residual activity widely used in coffee,ornamentals and edible crops.",
+        description:"Presento® 200SP is a highly systemic insecticide for foliar and stem application and is active particularly against a range of pests like thrips,leafminers,aphids and whiteflies with broad spectrum,long residual activity widely used in coffee,ornamentals and edible crops.",
         solution: "Use Presento 10gms/20ltrs + Integra 3mls after spotting infestation cases.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/leafminers.jpg",
@@ -520,6 +520,37 @@ const solutions = [
         pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
     },
     { 
+        problem: "Berry Moth", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+    },
+    { 
+        problem: "Berry Moth ", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+    },
+    { 
+        problem: "Berry Moths", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+    },
+
+    { 
         problem: "Coffee Berry Moths", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
@@ -580,7 +611,7 @@ const solutions = [
         pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
     },
     { 
-        problem: "Month", 
+        problem: "Moth", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
         solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
@@ -591,7 +622,7 @@ const solutions = [
     },
 
     { 
-        problem: "Month ", 
+        problem: "Moth ", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
         solution: "Use Kingcode 10mls + Integra 3mls/20ltrs of water to eradicate them",
@@ -615,7 +646,7 @@ const solutions = [
     { 
         problem: "Ranger", 
         infestationimage: "images/ranger-480EC.webp",
-        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used in agriculture for controlling pests like scales,mealybugs and leafminers. It is also used as termiticide for termites in construction buildings and fruit trees.",
+        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,mealybugs and leafminers. It is also used as termiticide for termites in fruit trees.",
         solution: "Use Ranger 40mls plus Integra 3mls/20ltrs of water during the onset of infestation,when you are not havesting your berries.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/scales.jpeg",
@@ -625,7 +656,7 @@ const solutions = [
     { 
         problem: "Ranger ", 
         infestationimage: "images/ranger-480EC.webp",
-        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used in agriculture for controlling pests like scales,mealybugs and leafminers. It is also used as termiticide for termites in construction buildings and fruit trees.",
+        description: "Ranger® 480EC is a non-systemic contact and stomach insecticide for foliar and stem application that is active against a range of insects widely used  in controlling pests like scales,mealybugs and leafminers. It is also used as termiticide for termites in fruit trees.",
         solution: "Use Ranger 40mls plus Integra 3mls/20ltrs of water during the onset of infestation,when you are not havesting your berries.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/scales.jpeg",
@@ -763,7 +794,7 @@ const solutions = [
     { 
         problem: "Lexus", 
         infestationimage: "images/Lexus-247SC.webp",
-        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of Scales,Leaf miners,Berry borer,Berry moth, Aphids, Whiteflies, Diamond back moth, Thrips and Caterpillars on Coffee Roses and Vegetables.",
+        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
         solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water upon spotting cases of infestation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/Coffee berry borer.jpg",
@@ -773,7 +804,7 @@ const solutions = [
     { 
         problem: "Lexus ", 
         infestationimage: "images/Lexus-247SC.webp",
-        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of Scales,Leaf miners,Berry borer,Berry moth, Aphids, Whiteflies, Diamond back moth, Thrips and Caterpillars on Coffee Roses and Vegetables.",
+        description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
         solution: "Use Lexus 10mls + Integra 3mls/20ltrs of water upon spotting cases of infestation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/Coffee berry borer.jpg",
@@ -1239,7 +1270,7 @@ const solutions = [
     { 
         problem: "Bazooka", 
         infestationimage: "images/Bazooka-2048x2048.webp",
-        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control insect and mite pests of a range of agronomic, fruit, vegetable and ornamental crops.",
+        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in tomatoes,miraa,muguka,fruit,vegetable and ornamental crops.",
         solution: "Start spraying after spotting signs of infestation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/Mites.jpg",
@@ -1249,7 +1280,7 @@ const solutions = [
     { 
         problem: "Bazooka ", 
         infestationimage: "images/Bazooka-2048x2048.webp",
-        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control insect and mite pests of a range of agronomic, fruit, vegetable and ornamental crops.",
+        description:"Bazooka® 18EC is an insecticide/miticide highly effective via contact and translaminar activities which is used to control pests like red spindermites,thrips and leafminers in tomatoes,miraa,muguka,fruit,vegetable and ornamental crops.",
         solution: "Start spraying after spotting signs of infestation.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "./images/Mites.jpg",
@@ -1566,7 +1597,7 @@ const solutions = [
     { 
         problem: "Absolute Star", 
         infestationimage: "images/Absolute-star-2048x2048.webp",
-        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
@@ -1576,7 +1607,7 @@ const solutions = [
     { 
         problem: "Absolute Star ", 
         infestationimage: "images/Absolute-star-2048x2048.webp",
-        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
@@ -1586,7 +1617,7 @@ const solutions = [
     { 
         problem: "Absolute ", 
         infestationimage: "images/Absolute-star-2048x2048.webp",
-        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
@@ -1596,7 +1627,7 @@ const solutions = [
     { 
         problem: "Absolute", 
         infestationimage: "images/Absolute-star-2048x2048.webp",
-        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like coffee berry disease and leafrust on  coffee and other agricultural crops.",
+        description:"Absolute Star 400SC broad-spectrum fungicide is a unique combination of synergetic active ingredient that has excellent eradicant, systemic preventive and curative and translaminar properties against a wide range of fungal and bacterial infections like early and late blights,coffee berry disease,leaf sports and leafrust on coffee and other agricultural crops.",
         solution: "For preventive and curative actions alternate Absolute star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
@@ -1884,7 +1915,7 @@ const solutions = [
     { 
         problem: "Vitabor Gold", 
         infestationimage: "images/Vitabor-Gold.webp",
-        description:"Deficiency symptoms are followers abortion and new formed leaves are discolorized. The leaves are light green and mottled, the new developing leaves have an asymetric shape with uneven margins and necrotic spots.",
+        description:"Vitabor Gold® is a highly soluble, effective and cost-efficient foliar fertilizer containing readily available Boron and Nitrogen for the plant. Its formulation includes the necessary additives for a perfect adherence in the leaves of the crops.",
         solution: "Use Vitabor Gold 20mls + Integra 3mls/20ltrs of water.",
         image: "images/borondef.jpg",
         sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
@@ -1970,7 +2001,7 @@ const solutions = [
     { 
         problem: "Lavender Total", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Phosphorus.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -1981,7 +2012,7 @@ const solutions = [
     { 
         problem: "Lavender Total ", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Phosphorus.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -1991,7 +2022,7 @@ const solutions = [
     { 
         problem: "Lavender", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Phosphorus.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -2001,7 +2032,7 @@ const solutions = [
     { 
         problem: "Lavender ", 
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
-        description:"Excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
+        description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
         image: "images/Phosphorus.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
@@ -2165,7 +2196,7 @@ const solutions = [
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
         description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water.",
-        image: "images/Pottasium.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"500gms,1kg,25kgs",
         pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
@@ -2176,7 +2207,7 @@ const solutions = [
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
         description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
-        image: "images/Pottasium.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"500gms,1kg,25kgs",
         pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
@@ -2186,7 +2217,7 @@ const solutions = [
         infestationimage: "images/Goldchance-Multi-Super-K-1.webp",
         description:"Goldchance Super Flowers & Fruits® is a fully water soluble NPK fertilizer designed for flowering and fruiting stages of a wide range of agricultural crops including coffee,vegetables, fruits and ornamentals.",
         solution: "Use Goldchance fruit and flower 50gms + Integra 3mls/20ltrs of water during flowering and fruiting stages.",
-        image: "images/Pottasium.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"500gms,1kg,25kgs",
         pricerange:"Ksh(250-300),Ks(450-500),Ksh(10300-10800)"
@@ -2284,7 +2315,7 @@ const solutions = [
         infestationimage: "images/Humipower-bag-2048x2048.webp",
         description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
-        image: "images/soilacid.jpeg",
+        image: "./images/fertilizer.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
         pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
@@ -2297,7 +2328,7 @@ const solutions = [
         infestationimage: "images/Humipower-bag-2048x2048.webp",
         description:"Humipower is a water-soluble soil amendment and blend that contains potassium, humates and fulvic acid in granular form. It is used in agricultural, horticultural and field crops, landscaping lawns, pot plants as well as gardening. It is used both in the soil as an amendment and as fertilizer blend to enhance nutrient uptake, improves water holding capacity, increases aeration, improves tilth and workability and stimulate the activity of the beneficial microorganisms.",
         solution: "Use Humipower 1kg per 50kg of basal fertilizer.",
-        image: "images/soilacid.jpeg",
+        image: "./images/fertilizer.webp",
         sprayingintervals: "Use while applying basal fertilizers.",
         availablepacksize:"500gms,1kg,25kgs",
         pricerange:"Ksh(250-300),Ksh(600-650),Ksh(11800-12000)"
@@ -2403,7 +2434,7 @@ const solutions = [
         infestationimage:"images/Integra (1).webp",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/stickersp.jpg",
-        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
@@ -2413,7 +2444,7 @@ const solutions = [
         infestationimage:"images/Integra (1).webp",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/stickersp.jpg",
-        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
@@ -2423,7 +2454,7 @@ const solutions = [
         infestationimage:"images/stickersp.jpg",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/Integra (1).webp",
-        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
@@ -2441,7 +2472,7 @@ const solutions = [
         infestationimage:"images/stickersp.jpg",
         solution: "Integra® is an organo-silicone based non-ionic wetter and spreader, highly effective in improving spray coverage, adhesion and penetration of chemicals.Use 3mls/20ltrs to increase efficacy of your spray.",
         image: "images/Integra (1).webp",
-        sprayingintervals:"Incoporate it every time you are doing srpaying of whatever kind",
+        sprayingintervals:"Incoporate it every time you are doing spraying of whatever kind",
         availablepacksize:"25mls,50mls,100mls,250mls,1ltr.",
         pricerange:"Ksh (150-180),Ksh(250-300),Ksh(450-500),Ksh(1250-1300),Ksh(3400-3500)"
     },
@@ -2462,7 +2493,7 @@ const solutions = [
         infestationimage: "images/Optimizer-new-2048x2048.webp",
         description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
-        image: "images/stress2.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
         pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
@@ -2474,7 +2505,7 @@ const solutions = [
         infestationimage: "images/Optimizer-new-2048x2048.webp",
         description:"Optimizer® is a pure natural fermented liquid seaweed fertilizer enriched with NPK fertilizer for use in coffee, vegetables, fruits, ornamentals and cereals for quality and optimum yields.It is designed to help the plant to counter transplanting shock in young crops,It can be applied as a foliar spray or through drenching/ drip irrigation and its suitable for use in all vegetables, flowers, coffee, cereals, potatoes, and fruit trees as mangoes, avocados, strawberries, melon, and grapes among others.",
         solution: "Use Optimizer 10mls + Integra 3mls/20ltrs of water.",
-        image: "images/stress2.jpg",
+        image: "images/ripeberries.jpg",
         sprayingintervals:"Spray it every time you observe coffee trees are under stress",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltr.",
         pricerange:"Ksh(250-300),Ksh(450-500),Ksh(850-900),Ksh(1600-1700),Ksh(7000-7300)"
