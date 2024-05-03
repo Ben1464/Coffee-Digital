@@ -2003,7 +2003,7 @@ const solutions = [
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
         description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
-        image: "./images/loveripe.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
         pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
@@ -2014,7 +2014,7 @@ const solutions = [
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
         description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
-        image: "./images/loveripe.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
         pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
@@ -2024,7 +2024,7 @@ const solutions = [
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
         description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
-        image: "./images/loveripe.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
         pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
@@ -2034,7 +2034,7 @@ const solutions = [
         infestationimage: "images/Lavender-total-combine-2048x2048.webp",
         description:"Lavender total is an excellent fully water soluble NPK foliar fertiliser designed for use during the whole vegetative cycle of agricultural crops including coffee, vegetables, fruit crops, ornamentals and cereals, for quality optimum yields. It is a quality and well-balanced foliar fertilizer that provides your crops with the individually-tailored nutrients required to thrive during the critical stages of growth and ensures well-nourished plants that give you high quality yields under difficult conditions.",
         solution: "Use Lavender Total 20mls + Integra 3mls/20ltrs of water.",
-        image: "./images/loveripe.jpg",
+        image: "./images/ripeberries.jpg",
         sprayingintervals: "Repeat spray after 21 days.",
         availablepacksize:"100mls,250mls,500mls,1ltr,5ltrs,10ltrs,20ltrs.",
         pricerange:"Ksh(200-250),Ksh(450-500),Ksh(750-800),Ksh (1500-1600),Ksh(6500-6700),Ksh(12000-12300),Ksh(23400-24000)."
