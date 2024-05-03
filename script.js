@@ -1898,7 +1898,16 @@ const solutions = [
         availablepacksize:"250mls,500mls,1ltr.",
         pricerange:"Ksh (350-400),Ksh (650-750),Ksh (1300-1400)."
     },
-
+    { 
+        problem: "Zincabor ", 
+        infestationimage: "./images/zincabor.jpg",
+        description:"Zincabor is a highly soluble and effective inorganic fertilizer containing readily available Boron, Zinc and Nitrogen to improve pollen production and improve vigor on flowers and leaves with great fruit development as well as bud differentiation in all agricultural crops.",
+        solution: "Use Zincabor 20mls + Integra 3mls/20ltrs of water especiacly after prunning and during flowering season.",
+        image: "./images/flowersal.jpe",
+        sprayingintervals: "Repeat spray after 21 days. After pruning,handling and harvesting season.",
+        availablepacksize:"250mls,500mls,1ltr.",
+        pricerange:"Ksh (350-400),Ksh (650-750),Ksh (1300-1400)."
+    },
     { 
         problem: "Zinc", 
         infestationimage: "images/Zincdef.jpg",
