@@ -291,6 +291,18 @@ form button{
     color: green;
 } 
 
+/* Define blinking animation */
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Apply animation to the blinking link */
+.blinking-link {
+    animation: blink 1s infinite;
+}
+
 
 
 
