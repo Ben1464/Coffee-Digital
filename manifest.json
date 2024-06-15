@@ -8,16 +8,16 @@
     "description": "The site offers information on curated remedies tailored for maximum impact on your farm.",
     "icons": [
       {
-        "src": "./images/logo 3.jpg",
+        "src": "./images/glife.webp",
         "sizes": "192x192",
-        "type": "image/png",
-        "background_color": "#f5f5f5"
+        "type": "image/png"
+        
       },
       {
-        "src": "./images/logo 3.jpg",
+        "src": "./images/glife.webp",
         "sizes": "512x512",
-        "type": "image/png",
-        "background_color": "#f5f5f5"
+        "type": "image/png"
+        
       }
     ]
   }
