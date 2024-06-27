@@ -1591,7 +1591,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
 
     { 
@@ -1602,7 +1602,7 @@ const solutions = [
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Absolute Star ", 
@@ -1612,7 +1612,7 @@ const solutions = [
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Absolute ", 
@@ -1622,7 +1622,7 @@ const solutions = [
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Absolute", 
@@ -1632,7 +1632,7 @@ const solutions = [
         image: "images/CBD.jpg",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
 
     { 
@@ -1665,7 +1665,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+       pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Solution To Coffee Berry Disease", 
@@ -1675,7 +1675,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Solution To Coffee Berry Disease ", 
@@ -1685,7 +1685,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "CBD", 
@@ -1695,7 +1695,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "CBD ", 
@@ -1705,7 +1705,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Berry Disease", 
@@ -1715,7 +1715,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
     { 
         problem: "Berry Disease ", 
@@ -1725,7 +1725,7 @@ const solutions = [
         image: "images/Absolute-star-2048x2048.webp",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.(During the wet seasons)",
         availablepacksize:"50mls,100mls,250mls,1ltr.",
-        pricerange:"Ksh(350-400),Ksh(650-700),Ksh(1650-1700),Ksh(6400-6600)."
+        pricerange:"Ksh(350-400),Ksh(750-800),Ksh(1800-1850),Ksh(6700-7000)."
     },
 
     { 
