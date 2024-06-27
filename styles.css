@@ -68,7 +68,7 @@ button,
     background: linear-gradient(135deg, #3BD045, #EF1105);
     color: #fff;
     border: none;
-    border-radius: 30px; /* Increased border radius for a sleek look */
+    border-radius: 12px; /* Increased border radius for a sleek look */
     cursor: pointer;
     transition: background-color 0.3s;
 }
