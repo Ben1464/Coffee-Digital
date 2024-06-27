@@ -216,6 +216,30 @@ const solutions = [
        
     },
     { 
+        problem: "Greenscales ", 
+        infestationimage: "images/greencoffeescale.jpg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+        
+       
+    },
+    { 
+        problem: "Greenscales", 
+        infestationimage: "images/greencoffeescale.jpg",
+        description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls and 1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+        
+       
+    },
+    { 
         problem: "Green Scales Infestation In Coffee", 
         infestationimage: "images/greencoffeescale.jpg",
         description: "Green coffee scale (Coccus viridis) is a common and serious problem. Scales suck the plant sap resulting in reduced growth and crop yield. Sooty mould (a black, loose, sooty-like cover) often develops on leaves. It grows on the sweet exudate from the scales (honeydew) that also attracts ants.",
@@ -662,6 +686,26 @@ const solutions = [
         pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
     },
     { 
+        problem: "Berrymoth ", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+    },
+    { 
+        problem: "Berrymoth", 
+        infestationimage: "images/months.jpeg",
+        description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
+        solution: "To eradicate them use Kingcode 10mls + Integra 3mls/20ltrs of water. ",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Kingcode-elite-2048x2048.webp",
+        availablepacksize:"50mls,100mls,250mls,1ltr.",
+        pricerange:"Ksh (200-250),Ksh (300-350),Ksh (650-750),Ksh (2900-3000)"
+    },
+    { 
         problem: "Moth", 
         infestationimage: "images/months.jpeg",
         description: "The female moth lays scale-like eggs singly on or near green berries. The caterpillar is reddish to pink in colour with dark markings on the back, and measures 13 mm when fully grown. Caterpillars bore into green, half-grown berries, starting near the stalk and hollow them out.",
@@ -843,6 +887,26 @@ const solutions = [
         pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
     },
     { 
+        problem: "Berryborer", 
+        infestationimage: "images/Coffee berry borer.jpg",
+        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Berryborers", 
+        infestationimage: "images/Coffee berry borer.jpg",
+        description: "Coffee berry borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee cherry and lays her eggs inside. Once hatched, the larvae feed on the coffee beans inside the berry, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
         problem: "Lexus", 
         infestationimage: "images/Lexus-247SC.webp",
         description: "Lexus® 247SC is broad spectrum systemic insecticide for control of scales,Leaf miners,berry borer,berry moth, aphids, whiteflies, diamond back moth, thrips and caterpillars on Coffee,Miraa,Muguka and Vegetables.",
@@ -944,6 +1008,36 @@ const solutions = [
     },
     { 
         problem: "Stem Borer ", 
+        infestationimage: "images/stemborer.jpg",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Stemborer ", 
+        infestationimage: "images/stemborer.jpg",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Stemborer", 
+        infestationimage: "images/stemborer.jpg",
+        description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
+        solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/Lexus-247SC.webp",
+        availablepacksize:"40mls,100mls,1ltr.",
+        pricerange:"40mlsKsh(250-300),Ksh(600-700),Ksh(6500-6800)"
+    },
+    { 
+        problem: "Stemborers", 
         infestationimage: "images/stemborer.jpg",
         description: "Coffee stem borer  is a devastating insect pest that affects coffee plants. The female beetle burrows into the coffee stem and lays her eggs inside. Once hatched, the larvae feed on the stem, causing damage and reducing the quality and yield of the coffee crop.",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water to eradicate them.",
@@ -1090,7 +1184,7 @@ const solutions = [
 
     { 
         problem: "Mealybugs", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1100,7 +1194,7 @@ const solutions = [
     },
     { 
         problem: "Mealybugs ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1110,7 +1204,7 @@ const solutions = [
     },
     { 
         problem: "Mealybug", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1120,7 +1214,7 @@ const solutions = [
     },
     { 
         problem: "Mealybug ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1131,7 +1225,7 @@ const solutions = [
 
     { 
         problem: "Coffee Mealybug", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1141,7 +1235,7 @@ const solutions = [
     },
     { 
         problem: "Coffee Mealybug ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1151,7 +1245,7 @@ const solutions = [
     },
     { 
         problem: "Coffee Mealybugs", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Lexus-247SC.webp",
@@ -1160,7 +1254,7 @@ const solutions = [
     },
     { 
         problem: "Coffee Mealybugs ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         image: "images/Lexus-247SC.webp",
@@ -1169,7 +1263,7 @@ const solutions = [
     },
     { 
         problem: "Solution To Coffee Mealybugs", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1179,7 +1273,7 @@ const solutions = [
     },
     { 
         problem: "Solution To Coffee Mealybugs ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Reapeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1190,7 +1284,7 @@ const solutions = [
     
     { 
         problem: "Solution To Coffee Mealybug", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1200,7 +1294,7 @@ const solutions = [
     },
     { 
         problem: "Solution To Coffee Mealybug ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1211,7 +1305,7 @@ const solutions = [
 
     { 
         problem: "Bugs", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
@@ -1221,7 +1315,7 @@ const solutions = [
     },
     { 
         problem: "Bugs ", 
-        infestationimage: "images/Mealybugs.jpg",
+        infestationimage: "./images/mealybugs in cofee.jpg",
         description:"Mealybugs are small, white, cotton-like insects that infest coffee plants, sucking sap and causing stunted growth, yellowing leaves, and reduced yield. They also excrete honeydew, attracting ants and promoting sooty mold growth. Control involves physical removal, insecticidal soap, biological agents, or pesticides for severe infestations. ",
         solution: "To eradicate them use Lexus 10mls + Integra 3mls/20ltrs of water.",
         sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
