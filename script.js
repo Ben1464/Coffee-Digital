@@ -323,9 +323,39 @@ const solutions = [
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
     },
+    { 
+        problem: "LeafMiners Solution in Coffee", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/PRESENTO-KG-2048x2048.webp",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+    { 
+        problem: "LeafMiner Solution in Coffee", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/PRESENTO-KG-2048x2048.webp",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
 
     { 
         problem: "Leaf Miners", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/PRESENTO-KG-2048x2048.webp",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+    { 
+        problem: "Leafminers", 
         infestationimage: "images/leafminers.jpg",
         description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
         solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
@@ -344,6 +374,16 @@ const solutions = [
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
     },
+    { 
+        problem: "Leafminers ", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        image: "images/PRESENTO-KG-2048x2048.webp",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
 
     { 
         problem: "Leaf Miner", 
@@ -354,11 +394,22 @@ const solutions = [
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
     },
+
     { 
         problem: "Leaf Miner ", 
         infestationimage: "images/leafminers.jpg",
         description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
         solution: "To eradicate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        image: "images/PRESENTO-KG-2048x2048.webp",
+        availablepacksize:"20gms,100gms,250gms, 1Kg.",
+        pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
+    },
+    { 
+        problem: "Leafminer", 
+        infestationimage: "images/leafminers.jpg",
+        description:"Leaf miners are tiny insect larvae that tunnel through the tissues of leaves, leaving distinctive trails or mines behind them. In the case of coffee plants, leaf miners can have a significant impact on the health and productivity of the coffee leaves. When leaf miners infest coffee plants, they create tunnels within the leaves, which disrupt the flow of nutrients and water.",
+        solution: "To eraducate them use Presento 10gms + Integra 3mls/20ltrs of water.",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
         image: "images/PRESENTO-KG-2048x2048.webp",
         availablepacksize:"20gms,100gms,250gms, 1Kg.",
         pricerange:"Ksh (150-200),Ksh (400-450),Ksh (1200-1300),Ksh (3400-3600)"
