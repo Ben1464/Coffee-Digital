@@ -1610,7 +1610,26 @@ const solutions = [
         availablepacksize:"500gms,1kg,2kgs.",
         pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
     },
-
+    { 
+        problem: "Leafrust", 
+        infestationimage: "images/leafrust.jpg",
+        description:"Coffee rust or coffee leaf rust is a significant problem in coffee-producing regions. Caused by the fungus Hemileia vastatrix, outbreaks can have a devastating impact on crop yields, rendering coffee cultivation uneconomic wherever it reaches epidemic proportions.",
+        solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/Green-Cop.webp",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
+    { 
+        problem: "Leafrust ", 
+        infestationimage: "images/leafrust.jpg",
+        description:"Coffee rust or coffee leaf rust is a significant problem in coffee-producing regions. Caused by the fungus Hemileia vastatrix, outbreaks can have a devastating impact on crop yields, rendering coffee cultivation uneconomic wherever it reaches epidemic proportions.",
+        solution: "For preventive actions use Greencop 140gms/20ltrs of water and for curative actions alternate Abslote star 10mls with Compliant 40mls/20ltrs per 20ltrs of water.",
+        image: "images/Green-Cop.webp",
+        sprayingintervals: "Repeat spray after 21 days. If the infestation is adverse repeat after 14 days.",
+        availablepacksize:"500gms,1kg,2kgs.",
+        pricerange:"Ksh(800-900),Ksh(1700-1800),Ksh(3350-3500)"
+    },
     { 
         problem: "Greencop ", 
         infestationimage: "images/Green-Cop.webp",
