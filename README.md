@@ -19,9 +19,10 @@
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ben1464/Coffee Digital?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ben1464/Coffee-Digital?style=plastic)
 
-  ![GitHub top language](https://img.shields.io/github/languages/top/Ben1464/Coffee Digital?style=plastic)
+  ![GitHub top language](https://img.shields.io/github/languages/top/Ben1464/Coffee-Digital?style=plastic)
+
 
 
 
